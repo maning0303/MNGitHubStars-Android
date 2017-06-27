@@ -92,20 +92,20 @@ Name | Describe | 截图
 [PicassoFaceDetectionTransformation](https://github.com/aryarohit07/PicassoFaceDetectionTransformation) | 使用Picasso加载图像脸部自动识别居中 | ![](https://raw.githubusercontent.com/aryarohit07/PicassoFaceDetectionTransformation/master/images/result_image1.jpg)
 [GlideFaceDetectionTransformation](https://github.com/aryarohit07/GlideFaceDetectionTransformation) | 使用Glide加载图像脸部自动识别居中 | ![](https://raw.githubusercontent.com/aryarohit07/GlideFaceDetectionTransformation/master/images/result_image1.jpg)
 [FrescoFaceDetectionProcessor](https://github.com/aryarohit07/FrescoFaceDetectionProcessor) | 使用Fresco加载图像脸部自动识别居中 | ![](https://raw.githubusercontent.com/aryarohit07/FrescoFaceDetectionProcessor/master/images/result_image1.jpg)
-[Tiny](https://github.com/Sunzxyong/Tiny) | 图片压缩库 | ![]()
+[Tiny](https://github.com/Sunzxyong/Tiny) | 图片压缩库 |  
 [Compressor](https://github.com/zetbaitsu/Compressor) | 图片压缩库 | ![](https://raw.githubusercontent.com/zetbaitsu/Compressor/master/ss.png)
 [CompressHelper](https://github.com/nanchen2251/CompressHelper) | 压缩文件，压缩图片，压缩Bitmap，Compress,CompressImage,CompressFile,CompressBitmap, | ![](https://github.com/nanchen2251/CompressHelper/blob/master/111.png)
 [SVG-Android](https://github.com/MegatronKing/SVG-Android) | SVG-Android是一款支持在Android 4.0+系统上显示SVG图片的开源库。 | ![](https://github.com/MegatronKing/SVG-Android/blob/master/screenshots/sample1.png)
-[FastImageSize](https://github.com/qstumn/FastImageSize) | FastImageSize是一个快速获得网络图片尺寸信息和图片类型的android libary | ![]()
+[FastImageSize](https://github.com/qstumn/FastImageSize) | FastImageSize是一个快速获得网络图片尺寸信息和图片类型的android libary |  
 [FrescoUtils](https://github.com/CarGuo/FrescoUtils) | Fresco 的封装，快速上手，图像后处理，超大图高清预览，缩小放大，双击放大等一一俱全 | ![](https://github.com/CarGuo/FrescoUtils/blob/master/02.gif)
 [HotImg](https://github.com/dreamlivemeng/HotImg) | 图片不规则区域点击事件处理 | ![](https://github.com/dreamlivemeng/HotImg/blob/master/images/xiaoguo.gif)
 [cropiwa](https://github.com/steelkiwi/cropiwa) | 自定义裁剪库 | ![](https://github.com/polyak01/cropiwa/blob/master/assets/3J8gYWC.gif)
-[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 缩放和显示大图的Android类库 | ![]()
-[android-gif-drawable](https://github.com/koral--/android-gif-drawable) | 播放Gif控件 | ![]()
-[GifLoader](https://github.com/adhishlal/GifLoader) | 播放Gif控件 | ![]()
-[fresco](https://github.com/facebook/fresco) | Facebook图片加载库 | ![]()
+[subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view) | 缩放和显示大图的Android类库 |  
+[android-gif-drawable](https://github.com/koral--/android-gif-drawable) | 播放Gif控件 |  
+[GifLoader](https://github.com/adhishlal/GifLoader) | 播放Gif控件 |  
+[fresco](https://github.com/facebook/fresco) | Facebook图片加载库 |  
 [PicCrop](https://github.com/hss01248/PicCrop) | 图片裁剪的工具类，基于uCrop封装，使用十分便捷 | ![](https://github.com/hss01248/PicCrop/blob/master/normalCrop.jpg)
-[PhotoView](https://github.com/chrisbanes/PhotoView) | 图片手势缩放库 | ![]()
+[PhotoView](https://github.com/chrisbanes/PhotoView) | 图片手势缩放库 |  
 
 
 ## 控件-ViewPager（ViewPager & Banner）
@@ -245,14 +245,14 @@ Name | Describe | 截图
 ## 热修复 & 插件化 & 组件化（Fix & Plugins）
 Name | Describe | 截图
 --- | --- | ---
-[JAndFix](https://github.com/qiuba/JAndFix) | JAndFix是一种基于Java实现的Android实时热修复方案，它并不需要重新启动就能生效。JAndFix是在AndFix的基础上改进实现，AndFix主要是通过jni实现对method（ArtMethod）结构题内容的替换。JAndFix是通过Unsafe对象直接操作Java虚拟机内存来实现替换。 | ![]()
+[JAndFix](https://github.com/qiuba/JAndFix) | JAndFix是一种基于Java实现的Android实时热修复方案，它并不需要重新启动就能生效。JAndFix是在AndFix的基础上改进实现，AndFix主要是通过jni实现对method（ArtMethod）结构题内容的替换。JAndFix是通过Unsafe对象直接操作Java虚拟机内存来实现替换。 |  
 [HtmlNative](https://github.com/hsllany/HtmlNative) | 使用Html来渲染Android界面的动态化界面方案 | ![](https://github.com/hsllany/HtmlNative/blob/master/doc/screen2.jpg)
-[Surgeon](https://github.com/TangXiaoLv/Surgeon) | Runtime function replace for android. Android方法热替换框架 | ![]()
+[Surgeon](https://github.com/TangXiaoLv/Surgeon) | Runtime function replace for android. Android方法热替换框架 |  
 [ExplosionField](https://github.com/tyrantgit/ExplosionField) | View爆炸粉碎效果 | ![](https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif)
-[Robust](https://github.com/Meituan-Dianping/Robust) | 美团新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%。 | ![]()
-[atlas](https://github.com/alibaba/atlas) | Atlas是伴随着手机淘宝的不断发展而衍生出来的一个运行于Android系统上的一个容器化框架，我们也叫动态组件化(Dynamic Bundle)框架。它主要提供了解耦化、组件化、动态性的支持。覆盖了工程师的工程编码期、Apk运行期以及后续运维期的各种问题。 | ![]()
-[LiujiaqiAndroid](https://github.com/ljqloveyou123/LiujiaqiAndroid) | 插件化系列详解 | ![]()
-[Aceso](https://github.com/meili/Aceso) | Aceso是基于Instant Run Hot Swap的Android热修复方案，使用它你能在不用重新发布版本的情况下对线上app的bug进行修复。 | ![]()
+[Robust](https://github.com/Meituan-Dianping/Robust) | 美团新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%。 |  
+[atlas](https://github.com/alibaba/atlas) | Atlas是伴随着手机淘宝的不断发展而衍生出来的一个运行于Android系统上的一个容器化框架，我们也叫动态组件化(Dynamic Bundle)框架。它主要提供了解耦化、组件化、动态性的支持。覆盖了工程师的工程编码期、Apk运行期以及后续运维期的各种问题。 |  
+[LiujiaqiAndroid](https://github.com/ljqloveyou123/LiujiaqiAndroid) | 插件化系列详解 |  
+[Aceso](https://github.com/meili/Aceso) | Aceso是基于Instant Run Hot Swap的Android热修复方案，使用它你能在不用重新发布版本的情况下对线上app的bug进行修复。 |  
 
 
 ## 视图布局（View Layout）
@@ -282,7 +282,7 @@ Name | Describe | 截图
 Name | Describe | 截图
 --- | --- | ---
 [CameraView](https://github.com/shwenzhang/AndResGuard) | 仿微信拍照Android控件（轻触拍照，长按摄像） | ![](https://github.com/CJT2325/CameraView/blob/master/assets/video.gif)
-[Android-CustomCamera](https://github.com/jinguangyue/Android-CustomCamera) | 这是一个Android自定义相机的项目，现在它有基本的拍照功能， 前后置摄像头，闪光灯模式，延迟拍摄，正方形取景框，加水印效果 | ![]()
+[Android-CustomCamera](https://github.com/jinguangyue/Android-CustomCamera) | 这是一个Android自定义相机的项目，现在它有基本的拍照功能， 前后置摄像头，闪光灯模式，延迟拍摄，正方形取景框，加水印效果 |  
 [HelloCamera2](https://github.com/xingda920813/HelloCamera2) | Android 自定义相机: 可定制的 UI, 压缩到指定分辨率级别, 裁剪指定区域, 大图预览 | ![](https://raw.githubusercontent.com/xingda920813/HelloCamera2/master/screenshot_camera.png)
 [android-Camera2Video](https://github.com/googlesamples/android-Camera2Video) | 这个示例显示了如何使用新的Camera2录制视频API在Android Lollipop | ![](https://github.com/googlesamples/android-Camera2Video/blob/master/screenshots/2-record.png)
 [WeiXinRecordedDemo](https://github.com/Zhaoss/WeiXinRecordedDemo) | 仿微信视频拍摄UI, 基于ffmpeg的视频录制编辑 | ![](https://raw.githubusercontent.com/Zhaoss/WeiXinRecordedDemo/master/%E8%BF%99%E6%98%AF%E7%AE%80%E4%B9%A6%E4%B8%8A%E7%AF%87%E7%9A%84%E6%BA%90%E7%A0%81%2C%E5%B8%AE%E5%8A%A9%E7%90%86%E8%A7%A3%E6%BA%90%E7%A0%81%E5%AE%9E%E7%8E%B0/Image/demo4.png)
@@ -295,8 +295,8 @@ Name | Describe | 截图
 ## 视频 & 音频（Video & Audio）
 Name | Describe | 截图
 --- | --- | ---
-[NiceVieoPlayer](https://github.com/xiaoyanger0825/NiceVieoPlayer) | IjkPlayer/MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器 | ![]()
-[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) | 视频缓存框架 | ![]()
+[NiceVieoPlayer](https://github.com/xiaoyanger0825/NiceVieoPlayer) | IjkPlayer/MediaPlayer+TextureView，完美切换全屏、小窗口的Android视频播放器 |  
+[AndroidVideoCache](https://github.com/danikula/AndroidVideoCache) | 视频缓存框架 |  
 [autovideoplayer](https://github.com/zzzlw/autovideoplayer) | 仿新浪微博列表滑动自动播放视频 | ![](https://camo.githubusercontent.com/4d81218b884c6f4c9e61b404665c5628698a2507/687474703a2f2f69322e6275696d672e636f6d2f3536373537312f666234396237643964313339343762662e676966)
 [VoiceManager](https://github.com/jaydenxiao2016/VoiceManager) | 实现录音功能，提供暂停、继续切换，并且监听音量大小以波浪线呈现出现 | ![](https://github.com/jaydenxiao2016/VoiceManager/blob/master/art/Screenshot_2017-03-21-17-28-01.png)
 [ParsingPlayer](https://github.com/TedaLIEz/ParsingPlayer) | 基于 IjkPlayer 的视频播放器 | ![](https://github.com/TedaLIEz/ParsingPlayer/blob/master/screenshots/2.png)
@@ -338,7 +338,7 @@ Name | Describe | 截图
 ## 系统（System & PDF）
 Name | Describe | 截图
 --- | --- | ---
-[SmsObserverForAndroid](https://github.com/Robin-jiangyufeng/SmsObserverForAndroid) | 这是一个用于拦截android实时短信的库,可以进行短信过滤,得到自己想要的内容,可以用于需要自动填写短信验证码的app项目 | ![]()
+[SmsObserverForAndroid](https://github.com/Robin-jiangyufeng/SmsObserverForAndroid) | 这是一个用于拦截android实时短信的库,可以进行短信过滤,得到自己想要的内容,可以用于需要自动填写短信验证码的app项目 |  
 [AndroidPDF](https://github.com/lidong1665/AndroidPDF) | 展示PDF的控件，支持本地和网络 | ![](https://camo.githubusercontent.com/be6f7f068fbc70a0d353116456ea8c994e5f6382/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313032313531373536373630)
 
 
@@ -351,7 +351,7 @@ Name | Describe | 截图
 ## 换肤 & 主题（Skin & Theme）
 Name | Describe | 截图
 --- | --- | ---
-[Android-skin-support](https://github.com/ximsfei/Android-skin-support) | 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤 | ![]()
+[Android-skin-support](https://github.com/ximsfei/Android-skin-support) | 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤 |  
 [Colorful](https://github.com/garretyoder/Colorful) | 轻松的动态改变你的主题颜色 | ![](https://github.com/garretyoder/Colorful/blob/master/screenshots/art2.png)
 
 
@@ -359,15 +359,15 @@ Name | Describe | 截图
 ## 权限（Permission）
 Name | Describe | 截图
 --- | --- | ---
-[RxPermissions](https://github.com/tbruyelle/RxPermissions) | Android 权限管理工具 | ![]()
-[Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) | Android 权限管理工具 | ![]()
+[RxPermissions](https://github.com/tbruyelle/RxPermissions) | Android 权限管理工具 |  
+[Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) | Android 权限管理工具 |  
 [HiPermission](https://github.com/yewei02538/HiPermission) | 一个简单易用的漂亮权限申请库 | ![](https://camo.githubusercontent.com/b5025fdfcbb157c0b7ed7a46c5428000b018f333/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313634333431352d616562393139666463646463313439392e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
 
 
 ## 数据存储（SQL & Cache & File ..）
 Name | Describe | 截图
 --- | --- | ---
-[Android-NoSql](https://github.com/florent37/Android-NoSql) | 轻量级的,简单的结构化NoSQL数据库 | ![]()
+[Android-NoSql](https://github.com/florent37/Android-NoSql) | 轻量级的,简单的结构化NoSQL数据库 |  
 [android-lite-orm](https://github.com/litesuits/android-lite-orm) | LiteOrm是一个小巧、强大、比系统自带数据库操作性能快1倍的 android ORM 框架类库，开发者一行代码实现数据库的增删改查操作，以及实体关系的持久化和自动映射。 | ![](https://camo.githubusercontent.com/de82e4a949bd859fbe397a42cf07fb9318bc3b40/687474703a2f2f6c69746573756974732e636f6d2f696d67732f6c6974652d3130772d746573742e706e67)
 
 
@@ -406,19 +406,19 @@ Name | Describe | 截图
 ## 转换工具（convert）
 Name | Describe | 截图
 --- | --- | ---
-[Fruit](https://github.com/ghuiii/Fruit) | 将Html转换为JaveBean对象 | ![]()
-[RxRetroJsoup](https://github.com/florent37/RxRetroJsoup) | 将Html转换为JaveBean对象 | ![]()
-[ason](https://github.com/afollestad/ason) | 简化和Json的交互 | ![]()
-[SQLite2XL](https://github.com/androidmads/SQLite2XL) | SQLite to Excel | ![]()
+[Fruit](https://github.com/ghuiii/Fruit) | 将Html转换为JaveBean对象 |  
+[RxRetroJsoup](https://github.com/florent37/RxRetroJsoup) | 将Html转换为JaveBean对象 |  
+[ason](https://github.com/afollestad/ason) | 简化和Json的交互 |  
+[SQLite2XL](https://github.com/androidmads/SQLite2XL) | SQLite to Excel |  
 
 
 ## 开发工具（Utils）
 Name | Describe | 截图
 --- | --- | ---
-[CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) | 快速开发工具类收集 | ![]()
-[SuperUtils](https://github.com/AllenCoder/SuperUtils) | 快速开发工具类收集 | ![]()
-[ThreadPoolHelp](https://github.com/rohsuton/ThreadPoolHelp) | Android平台下的线程池管理工具类 | ![]()
-[AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 基于Android系统Api封装常用工具类 | ![]()
+[CommonUtilLibrary](https://github.com/AbrahamCaiJin/CommonUtilLibrary) | 快速开发工具类收集 |  
+[SuperUtils](https://github.com/AllenCoder/SuperUtils) | 快速开发工具类收集 |  
+[ThreadPoolHelp](https://github.com/rohsuton/ThreadPoolHelp) | Android平台下的线程池管理工具类 |  
+[AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 基于Android系统Api封装常用工具类 |  
 
 
 ## 开源项目（App）
@@ -451,14 +451,16 @@ Name | Describe | 截图
 ## 其它（Others）
 Name | Describe | 截图
 --- | --- | ---
-[AndResGuard](https://github.com/shwenzhang/AndResGuard) | AndResGuard是一个帮助你缩小APK大小的工具，他的原理类似Java Proguard，但是只针对资源。他会将原本冗长的资源路径变短，例如将res/drawable/wechat变为r/d/a。 | ![]()
+[AndResGuard](https://github.com/shwenzhang/AndResGuard) | AndResGuard是一个帮助你缩小APK大小的工具，他的原理类似Java Proguard，但是只针对资源。他会将原本冗长的资源路径变短，例如将res/drawable/wechat变为r/d/a。 |  
 [Anti-recall](https://github.com/JasonQS/Anti-recall) | QQ防撤回神器   | ![](https://github.com/JasonQS/Anti-recall/blob/master/demo/demo01.gif)
 [CoordinatorLayoutDemo](https://github.com/loonggg/CoordinatorLayoutDemo) | 使用CoordinatorLayout仿稀土掘金个人界面  | ![](https://raw.githubusercontent.com/loonggg/CoordinatorLayoutDemo/master/image/cld.gif)
 [sdk3rd](https://github.com/czy1121/sdk3rd) | 第三方SDK集成库，授权/分享/支付   | ![](https://raw.githubusercontent.com/czy1121/sdk3rd/master/screenshot.png)
 [update](https://github.com/czy1121/update) | 清晰灵活简单易用的应用更新库   | ![](https://github.com/czy1121/update/blob/master/screenshot1.png)
-[FriendCircle](https://github.com/razerdp/FriendCircle) | 微信朋友圈  | ![]()
+[FriendCircle](https://github.com/razerdp/FriendCircle) | 微信朋友圈  |  
 [ApkToolPlus](https://github.com/linchaolong/ApkToolPlus) | ApkToolPlus 是一个 apk 逆向分析工具 | ![](https://github.com/linchaolong/ApkToolPlus/blob/master/doc/apktool.jpg)
-[GDG](https://github.com/peekler/GDG) | 谷歌开发Demos | ![]()
+[GDG](https://github.com/peekler/GDG) | 谷歌开发Demos |  
 [WingUE](https://github.com/githubwing/WingUE) | 一些较好用户体验实现集合 | ![](https://raw.githubusercontent.com/githubwing/WingUE/master/img/img_ele.gif)
+
+
 
 
