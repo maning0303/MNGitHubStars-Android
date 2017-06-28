@@ -4,14 +4,13 @@
 
 # 目录
 -	[日历(Calendar)](#日历)
--	[引导页(Intro&GuideView)](#引导页)
+- 	[引导页(Intro&GuideView)](#引导页)
 -	[透明指示器(HUD)](#透明指示器)
--	[手势交互(Gesture)](#手势交互)
+-	[手势交互(Gesture&ViewPager&Banner...)](#手势交互)
 -	[列表布局(RecyclerView&ListView&Adapter)](#列表布局)
 -	[刷新控件(RefreshView)](#刷新控件)
 -	[快速定位侧边栏(SccrollBar)](#快速定位侧边栏)
 -	[路由框架(Activity&Router)](#路由框架)
--	[ViewPager(Banner)](#ViewPager)
 -	[控件-搜索框(SearchView)](#控件-搜索框)
 -	[控件-图片(ImageView)](#控件-图片)
 -	[控件-文本(TextView)](#控件-文本)
@@ -53,6 +52,7 @@
 
 
 # 日历
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -65,6 +65,7 @@ Name | Describe | 截图
 
 
 # 引导页
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | --- 
@@ -73,6 +74,7 @@ Name | Describe | 截图
 
 
 # 透明指示器
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | --- 
@@ -80,6 +82,7 @@ Name | Describe | 截图
 
 
 # 手势交互
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -94,9 +97,15 @@ Name | Describe | 截图
 [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) |  Materia design 侧拉菜单  | ![](https://raw.githubusercontent.com/mikepenz/MaterialDrawer/develop/DEV/github/screenshots1.jpg)
 [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) |  很漂亮的侧拉菜单  | ![](https://github.com/yarolegovich/SlidingRootNav/blob/master/art/sample.gif)
 [SlideLayout](https://github.com/yanbober/SlideLayout) | 一个超级迷你轻量级全方向完美侧滑控件，兼容各种嵌套与被嵌套滑动控件。 | ![](https://github.com/yanbober/SlideLayout/blob/master/art/demo.gif)
+[DevLight-Mobile-Agency-InfiniteCycleViewPager](https://github.com/AnveshReddyT/DevLight-Mobile-Agency-InfiniteCycleViewPager) | 无限循环，viewpage双向滑动切换效果。 | ![](https://camo.githubusercontent.com/cfec8d9c33d2c4495b8088253673bff9b9da9e73/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d656f6a53635f6c314f4c732f5637734452764a594b57492f414141414141414144454d2f5a72576e6c757565466a734b7739764c7272634c61595331502d444d67636f4551434c30422f773234312d683338322d6e6f2f76696376702e676966)
+[UltraViewPager](https://github.com/alibaba/UltraViewPager) | UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案 | ![](https://github.com/alibaba/UltraViewPager/blob/master/pics/pics1.gif)
+[RecyclerViewBanner](https://github.com/loonggg/RecyclerViewBanner) | 使用RecyclerView做的轮播图 | ![](https://github.com/loonggg/RecyclerViewBanner/blob/master/image/demo1.gif)
+[StackPageTransformer](https://github.com/fashare2015/StackPageTransformer) | 栈式列表的效果 | ![](https://raw.githubusercontent.com/fashare2015/StackPageTransformer/master/screen-record/stack.gif)
+[ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) | 可以展开缩放的Viewpager | ![](https://github.com/githubwing/ExpandableViewpager/raw/master/img.gif)
 
 
 # 列表布局
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -111,6 +120,7 @@ Name | Describe | 截图
 
 
 # 刷新控件
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -121,6 +131,7 @@ Name | Describe | 截图
 
 
 # 快速定位侧边栏
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -129,6 +140,7 @@ Name | Describe | 截图
 
 
 #	路由框架
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -137,6 +149,7 @@ Name | Describe | 截图
 
 
 # 控件-搜索框
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -145,6 +158,7 @@ Name | Describe | 截图
 
 
 # 控件-图片
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -175,19 +189,8 @@ Name | Describe | 截图
 
 
 
-# ViewPager
-
-Name | Describe | 截图
---- | --- | ---
-[DevLight-Mobile-Agency-InfiniteCycleViewPager](https://github.com/AnveshReddyT/DevLight-Mobile-Agency-InfiniteCycleViewPager) | 无限循环，viewpage双向滑动切换效果。 | ![](https://camo.githubusercontent.com/cfec8d9c33d2c4495b8088253673bff9b9da9e73/68747470733a2f2f6c68362e676f6f676c6575736572636f6e74656e742e636f6d2f2d656f6a53635f6c314f4c732f5637734452764a594b57492f414141414141414144454d2f5a72576e6c757565466a734b7739764c7272634c61595331502d444d67636f4551434c30422f773234312d683338322d6e6f2f76696376702e676966)
-[UltraViewPager](https://github.com/alibaba/UltraViewPager) | UltraViewPager是一个封装多种特性的ViewPager，主要是为多页面切换场景提供统一解决方案 | ![](https://github.com/alibaba/UltraViewPager/blob/master/pics/pics1.gif)
-[RecyclerViewBanner](https://github.com/loonggg/RecyclerViewBanner) | 使用RecyclerView做的轮播图 | ![](https://github.com/loonggg/RecyclerViewBanner/blob/master/image/demo1.gif)
-[StackPageTransformer](https://github.com/fashare2015/StackPageTransformer) | 栈式列表的效果 | ![](https://raw.githubusercontent.com/fashare2015/StackPageTransformer/master/screen-record/stack.gif)
-[ExpandableViewpager](https://github.com/githubwing/ExpandableViewpager) | 可以展开缩放的Viewpager | ![](https://github.com/githubwing/ExpandableViewpager/raw/master/img.gif)
-
-
-
 # 控件-文本
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -206,6 +209,7 @@ Name | Describe | 截图
 
 
 # 控件-输入框
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -215,6 +219,7 @@ Name | Describe | 截图
 
 
 # 控件-按钮
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -225,6 +230,7 @@ Name | Describe | 截图
 
 
 # 控件-网页
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -235,6 +241,7 @@ Name | Describe | 截图
 
 
 # 控件-进度条
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -252,6 +259,7 @@ Name | Describe | 截图
 
 
 # 滑杆
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | --- 
@@ -264,6 +272,7 @@ Name | Describe | 截图
 
 
 # 选项卡
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -275,6 +284,7 @@ Name | Describe | 截图
 
 
 # 键盘
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -284,6 +294,7 @@ Name | Describe | 截图
 
 
 # 二维码
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -292,6 +303,7 @@ Name | Describe | 截图
 
 
 # 提示
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -307,6 +319,7 @@ Name | Describe | 截图
 
 
 # 弹出框
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -318,6 +331,7 @@ Name | Describe | 截图
 
 
 # 动画
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -333,6 +347,7 @@ Name | Describe | 截图
 
 
 # 热修复&插件化&组件化
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -348,6 +363,7 @@ Name | Describe | 截图
 
 
 # 视图布局
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -360,6 +376,7 @@ Name | Describe | 截图
 
 
 # 视图效果
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -375,6 +392,7 @@ Name | Describe | 截图
 
 
 # 相机
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -391,6 +409,7 @@ Name | Describe | 截图
 
 
 # 视频&音频
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -403,6 +422,7 @@ Name | Describe | 截图
 
 
 # 直播相关
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -412,6 +432,7 @@ Name | Describe | 截图
 
 
 # 图表
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -421,6 +442,7 @@ Name | Describe | 截图
 
 
 # 模糊
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -429,6 +451,7 @@ Name | Describe | 截图
 
 
 # 指纹识别
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -437,6 +460,7 @@ Name | Describe | 截图
 
 
 # 状态栏
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -454,6 +478,7 @@ Name | Describe | 截图
 
 
 # 下载
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -462,6 +487,7 @@ Name | Describe | 截图
 
 
 # 换肤&主题
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -471,6 +497,7 @@ Name | Describe | 截图
 
 
 # 权限
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -481,6 +508,7 @@ Name | Describe | 截图
 
 
 # 数据存储
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -490,6 +518,7 @@ Name | Describe | 截图
 
 
 # 调试框架
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -505,6 +534,7 @@ Name | Describe | 截图
 
 
 # 选择器
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -525,6 +555,7 @@ Name | Describe | 截图
 
 
 # 转换工具
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -536,6 +567,7 @@ Name | Describe | 截图
 
 
 # 开发工具
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -546,6 +578,7 @@ Name | Describe | 截图
 
 
 # 开源项目
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
@@ -574,6 +607,7 @@ Name | Describe | 截图
 
 
 # 其它
+#### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
