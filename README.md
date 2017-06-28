@@ -9,11 +9,11 @@
 -	[手势交互(Gesture)](#手势交互)
 -	[列表布局(RecyclerView&ListView&Adapter)](#列表布局)
 -	[刷新控件(RefreshView)](#刷新控件)
--	[快速定位侧边栏View(SccrollBar)](#快速定位侧边栏)
+-	[快速定位侧边栏(SccrollBar)](#快速定位侧边栏)
 -	[路由框架(Activity&Router)](#路由框架)
+-	[ViewPager(Banner)](#ViewPager)
 -	[控件-搜索框(SearchView)](#控件-搜索框)
 -	[控件-图片(ImageView)](#控件-图片)
--	[控件-ViewPager(ViewPager & Banner)](#控件-ViewPager)
 -	[控件-文本(TextView)](#控件-文本)
 -	[控件-输入框(EditText)](#控件-输入框)
 -	[控件-按钮(Button)](#控件-按钮)
@@ -46,7 +46,7 @@
 -	[转换工具(convert)](#转换工具) 
 -	[开发工具(Utils)](#开发工具) 
 -	[开源项目(App)](#开源项目) 
--	[其它(Others](#其它)
+-	[其它(Others)](#其它)
 
 
 第9页 --- AvatarLabelView
@@ -175,7 +175,7 @@ Name | Describe | 截图
 
 
 
-# 控件-ViewPager
+# ViewPager
 
 Name | Describe | 截图
 --- | --- | ---
