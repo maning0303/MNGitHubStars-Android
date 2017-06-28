@@ -2,7 +2,7 @@
 归类自己GitHub标记的Android相关项目，方便以后查找；
 
 # 目录
--	[日历（Calendar）](#日历) 		
+-	[日历（Calendar）](#日历(Calendar)) 		
 -	[引导页](#引导页（Intro  Guide View）) 
 -	[透明指示器（HUD）](#透明指示器（HUD）) 
 -	[手势交互（Gesture）](#手势交互（Gesture）) 
@@ -48,7 +48,7 @@
 -	[其它（Others](#其它（Others) 
 
 
-## 日历
+## 日历(Calendar)
 
 Name | Describe | 截图
 --- | --- | ---
