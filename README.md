@@ -3,8 +3,8 @@
 
 
 # 目录
--	[日历(Calendar)](#日历Calendar) 		
--	[引导页(Intro&GuideView)](#引导页Guide)
+-	[日历(Calendar)](#日历) 		
+-	[引导页(Intro&GuideView)](#引导页)
 -	[透明指示器(HUD)](#透明指示器HUD) 
 -	[手势交互(Gesture)](#手势交互Gesture) 
 -	[列表布局(RecyclerView&ListView&Adapter)](#列表布局) 
@@ -49,7 +49,7 @@
 -	[其它(Others](#其它Others)
 
 
-# 日历Calendar
+# 日历
 
 Name | Describe | 截图
 --- | --- | ---
@@ -61,7 +61,7 @@ Name | Describe | 截图
 
 
 
-# 引导页Guide
+# 引导页
 
 Name | Describe | 截图
 --- | --- | --- 
