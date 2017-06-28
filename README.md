@@ -3,28 +3,27 @@
 
 
 # 目录
--	[测试](#测试) 
--	[日历(Calendar)](#日历) 		
+-	[日历(Calendar)](#日历)
 -	[引导页(Intro&GuideView)](#引导页)
--	[透明指示器(HUD)](#透明指示器HUD) 
--	[手势交互(Gesture)](#手势交互Gesture) 
--	[列表布局(RecyclerView&ListView&Adapter)](#列表布局) 
--	[刷新控件(RefreshView)](#刷新控件) 
--	[快速定位侧边栏View(SccrollBar)](#快速定位侧边栏View) 
--	[Activity路由框架(Activity&Router)](#Activity路由框架Router) 
--	[控件-搜索框(SearchView)](#控件-搜索框SearchView) 
--	[控件-图片(ImageView)](#控件-图片ImageView) 
--	[控件-ViewPager(ViewPager & Banner)](#控件-ViewPager) 
--	[控件-文本(TextView)](#控件-文本TextView) 
--	[控件-输入框(EditText)](#控件-输入框EditText) 
--	[控件-按钮(Button)](#控件-按钮Button) 
--	[控件-WebView(WebView)](#控件-WebView)
--	[控件-进度条(ProgressBar)](#控件-进度条ProgressBar) 
+-	[透明指示器(HUD)](#透明指示器)
+-	[手势交互(Gesture)](#手势交互)
+-	[列表布局(RecyclerView&ListView&Adapter)](#列表布局)
+-	[刷新控件(RefreshView)](#刷新控件)
+-	[快速定位侧边栏View(SccrollBar)](#快速定位侧边栏)
+-	[路由框架(Activity&Router)](#路由框架)
+-	[控件-搜索框(SearchView)](#控件-搜索框)
+-	[控件-图片(ImageView)](#控件-图片)
+-	[控件-ViewPager(ViewPager & Banner)](#控件-ViewPager)
+-	[控件-文本(TextView)](#控件-文本)
+-	[控件-输入框(EditText)](#控件-输入框)
+-	[控件-按钮(Button)](#控件-按钮)
+-	[控件-网页(WebView)](#控件-网页)
+-	[控件-进度条(ProgressBar)](#控件-进度条)
 -	[滑杆(Slider & SeekBar)](#滑杆) 
--	[选项卡(TabView)](#选项卡Tab) 
--	[键盘(Keyboard)](#键盘Keyboard) 
--	[二维码(ScanCode)](#二维码ScanCode) 
--	[提示(Tip & Toast & SnackBar & Notify ...)](#提示Tip) 
+-	[选项卡(TabView)](#选项卡) 
+-	[键盘(Keyboard)](#键盘) 
+-	[二维码(ScanCode)](#二维码) 
+-	[提示(Tip & Toast & SnackBar & Notify ...)](#提示) 
 -	[弹出框(Dialog & PopWindow & Menu ...)](#弹出框) 
 -	[动画(Animation)](#动画(Animation)) 
 -	[热修复 & 插件化 & 组件化(Fix & Plugins)](#热修复&插件化&组件化) 
@@ -32,26 +31,26 @@
 -	[视图效果(View Effects)](#视图效果) 
 -	[相机(Camera)](#相机Camera) 
 -	[视频 & 音频(Video & Audio)](#视频&音频) 
--	[直播相关(Live)](#直播相关Live) 
--	[图表(Chart)](#图表Chart) 
--	[模糊(BLurry)](#模糊BLurry) 
+-	[直播相关(Live)](#直播相关) 
+-	[图表(Chart)](#图表) 
+-	[模糊(BLurry)](#模糊) 
 -	[指纹识别(System & fingerprint)](#指纹识别) 
--	[状态栏(System & StatusBar)](#状态栏StatusBar) 
+-	[状态栏(System & StatusBar)](#状态栏) 
 -	[文件阅读FDF(System & PDF ...)](#文件阅读) 
--	[下载(Download)](#下载Download) 
+-	[下载(Download)](#下载) 
 -	[换肤 & 主题(Skin & Theme)](#换肤&主题) 
--	[权限(System & Permission)](#权限Permission) 
+-	[权限(System & Permission)](#权限) 
 -	[数据存储(SQL & Cache & File ..)](#数据存储) 
--	[调试框架(Debug & Crash & Log)](#调试框架Debug) 
--	[选择器(PickerView & FilePicker & ImagePicker ...)](#选择器Picker) 
--	[转换工具(convert)](#转换工具Convert) 
--	[开发工具(Utils)](#开发工具Utils) 
--	[开源项目(App)](#开源项目App) 
--	[其它(Others](#其它Others)
+-	[调试框架(Debug & Crash & Log)](#调试框架) 
+-	[选择器(PickerView & FilePicker & ImagePicker ...)](#选择器) 
+-	[转换工具(convert)](#转换工具) 
+-	[开发工具(Utils)](#开发工具) 
+-	[开源项目(App)](#开源项目) 
+-	[其它(Others](#其它)
 
 
-# 测试
-哈哈
+第9页 --- AvatarLabelView
+
 
 # 日历
 
@@ -73,14 +72,14 @@ Name | Describe | 截图
 
 
 
-# 透明指示器HUD
+# 透明指示器
 
 Name | Describe | 截图
 --- | --- | --- 
 [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) | 一个带circular效果的可自定义的的功能提示，show case view | ![](https://cloud.githubusercontent.com/assets/1595227/24331187/ad143b80-1237-11e7-919c-36111c1ce559.gif)
 
 
-# 手势交互Gesture
+# 手势交互
 
 Name | Describe | 截图
 --- | --- | ---
@@ -121,7 +120,7 @@ Name | Describe | 截图
 
 
 
-# 快速定位侧边栏View
+# 快速定位侧边栏
 
 Name | Describe | 截图
 --- | --- | ---
@@ -129,7 +128,7 @@ Name | Describe | 截图
 
 
 
-# Activity路由框架Router
+#	路由框架
 
 Name | Describe | 截图
 --- | --- | ---
@@ -137,7 +136,7 @@ Name | Describe | 截图
 
 
 
-# 控件-搜索框SearchView
+# 控件-搜索框
 
 Name | Describe | 截图
 --- | --- | ---
@@ -145,7 +144,7 @@ Name | Describe | 截图
 
 
 
-# 控件-图片ImageView
+# 控件-图片
 
 Name | Describe | 截图
 --- | --- | ---
@@ -188,7 +187,7 @@ Name | Describe | 截图
 
 
 
-# 控件-文本TextView
+# 控件-文本
 
 Name | Describe | 截图
 --- | --- | ---
@@ -206,7 +205,7 @@ Name | Describe | 截图
 
 
 
-# 控件-输入框EditText
+# 控件-输入框
 
 Name | Describe | 截图
 --- | --- | ---
@@ -215,7 +214,7 @@ Name | Describe | 截图
 [Pinview](https://github.com/GoodieBag/Pinview) | 数字码输入效果 | ![](https://camo.githubusercontent.com/4ca257787bd8b888b0dc811f490adb30f3217b0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5535425035676b397a516171732f67697068792e676966)
 
 
-# 控件-按钮Button
+# 控件-按钮
 
 Name | Describe | 截图
 --- | --- | ---
@@ -225,7 +224,7 @@ Name | Describe | 截图
 [CProgressButton](https://github.com/jiang111/CProgressButton) | 下载按钮显示进度类似iOS效果 | ![](https://raw.githubusercontent.com/jiang111/CProgressButton/master/art/art2.gif)
 
 
-# 控件-WebView
+# 控件-网页
 
 Name | Describe | 截图
 --- | --- | ---
@@ -235,7 +234,7 @@ Name | Describe | 截图
 
 
 
-# 控件-进度条ProgressBar
+# 控件-进度条
 
 Name | Describe | 截图
 --- | --- | ---
@@ -264,7 +263,7 @@ Name | Describe | 截图
 
 
 
-# 选项卡Tab
+# 选项卡
 
 Name | Describe | 截图
 --- | --- | ---
@@ -275,7 +274,7 @@ Name | Describe | 截图
 
 
 
-# 键盘Keyboard
+# 键盘
 
 Name | Describe | 截图
 --- | --- | ---
@@ -284,7 +283,7 @@ Name | Describe | 截图
 
 
 
-# 二维码ScanCode
+# 二维码
 
 Name | Describe | 截图
 --- | --- | ---
@@ -292,7 +291,7 @@ Name | Describe | 截图
 
 
 
-# 提示Tip
+# 提示
 
 Name | Describe | 截图
 --- | --- | ---
@@ -318,7 +317,7 @@ Name | Describe | 截图
 
 
 
-# 动画Animation
+# 动画
 
 Name | Describe | 截图
 --- | --- | ---
@@ -375,7 +374,7 @@ Name | Describe | 截图
 
 
 
-# 相机Camera
+# 相机
 
 Name | Describe | 截图
 --- | --- | ---
@@ -403,7 +402,7 @@ Name | Describe | 截图
 
 
 
-# 直播相关Live
+# 直播相关
 
 Name | Describe | 截图
 --- | --- | ---
@@ -412,7 +411,7 @@ Name | Describe | 截图
 
 
 
-# 图表Chart
+# 图表
 
 Name | Describe | 截图
 --- | --- | ---
@@ -421,7 +420,7 @@ Name | Describe | 截图
 
 
 
-# 模糊BLurry
+# 模糊
 
 Name | Describe | 截图
 --- | --- | ---
@@ -437,7 +436,7 @@ Name | Describe | 截图
 
 
 
-# 状态栏StatusBar
+# 状态栏
 
 Name | Describe | 截图
 --- | --- | ---
@@ -454,7 +453,7 @@ Name | Describe | 截图
 
 
 
-# 下载Download
+# 下载
 
 Name | Describe | 截图
 --- | --- | ---
@@ -471,7 +470,7 @@ Name | Describe | 截图
 
 
 
-# 权限Permission
+# 权限
 
 Name | Describe | 截图
 --- | --- | ---
@@ -490,7 +489,7 @@ Name | Describe | 截图
 
 
 
-# 调试框架Debug
+# 调试框架
 
 Name | Describe | 截图
 --- | --- | ---
@@ -505,7 +504,7 @@ Name | Describe | 截图
 
 
 
-# 选择器Picker
+# 选择器
 
 Name | Describe | 截图
 --- | --- | ---
@@ -525,7 +524,7 @@ Name | Describe | 截图
 
 
 
-# 转换工具Convert
+# 转换工具
 
 Name | Describe | 截图
 --- | --- | ---
@@ -536,7 +535,7 @@ Name | Describe | 截图
 
 
 
-# 开发工具Utils
+# 开发工具
 
 Name | Describe | 截图
 --- | --- | ---
@@ -546,7 +545,7 @@ Name | Describe | 截图
 [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 基于Android系统Api封装常用工具类 |  
 
 
-# 开源项目App
+# 开源项目
 
 Name | Describe | 截图
 --- | --- | ---
@@ -574,7 +573,7 @@ Name | Describe | 截图
 [UGank](https://github.com/Bakumon/UGank) | 「有干货」Rxjava + RxAndroid + MVP + Retrofit + Okhttp + Picasso | ![](https://github.com/Bakumon/UGank/raw/master/art/ugank1.png)
 
 
-# 其它Others
+# 其它
 
 Name | Describe | 截图
 --- | --- | ---
