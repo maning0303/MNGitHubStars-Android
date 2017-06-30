@@ -2,57 +2,56 @@
 归类自己GitHub标记的Android相关项目
 
 
-第17页 --- GifView
+第22页 --- MagicViewPager
 
 
 # 目录
 - 	[网络(Net)](#网络)
--	[日历(Calendar)](#日历)
+-	  [日历(Calendar)](#日历)
 - 	[引导页(Intro&GuideView&Indicator)](#引导页)
--	[透明指示器(HUD)](#透明指示器)
--	[手势交互(Gesture&ViewPager&Banner...)](#手势交互)
--	[列表布局(RecyclerView&ListView&Adapter)](#列表布局)
--	[刷新控件(RefreshView)](#刷新控件)
--	[快速定位侧边栏(SccrollBar)](#快速定位侧边栏)
--	[路由框架(Activity&Router)](#路由框架)
--	[控件-搜索框(SearchView)](#控件-搜索框)
--	[控件-图片(ImageView)](#控件-图片)
--	[控件-文本(TextView)](#控件-文本)
--	[控件-输入框(EditText)](#控件-输入框)
--	[控件-按钮(Button)](#控件-按钮)
-- [控件-开关(Switch)](#控件-开关)
-- [控件-多选复选框(CheckBox)](#控件-多选复选框)
--	[控件-网页(WebView)](#控件-网页)
--	[控件-进度条(ProgressBar)](#控件-进度条)
--	[滑杆(Slider & SeekBar)](#滑杆) 
--	[选项卡(TabView)](#选项卡) 
--	[键盘(Keyboard)](#键盘) 
--	[二维码(ScanCode)](#二维码) 
--	[提示(Tip & Toast & SnackBar & Notify ...)](#提示) 
--	[弹出框(Dialog & PopWindow & Menu ...)](#弹出框) 
--	[动画(Animation)](#动画) 
--	[热修复-插件化-组件化(Fix & Plugins)](#热修复-插件化-组件化) 
--	[视图布局(View Layout)](#视图布局) 
--	[视图效果(View Effects)](#视图效果) 
--	[相机(Camera)](#相机) 
--	[视频-音频(Video & Audio)](#视频-音频) 
--	[直播相关(Live)](#直播相关) 
--	[图表(Chart)](#图表) 
--	[模糊(BLurry)](#模糊) 
--	[指纹识别(System & fingerprint)](#指纹识别) 
+-	  [透明指示器(HUD)](#透明指示器)
+-	  [手势交互(Gesture&ViewPager&Banner...)](#手势交互)
+-	  [列表布局(RecyclerView&ListView&Adapter)](#列表布局)
+-	  [刷新控件(RefreshView)](#刷新控件)
+-	  [快速定位侧边栏(SccrollBar)](#快速定位侧边栏)
+-	  [路由框架(Activity&Router)](#路由框架)
+-	  [控件-图片(ImageView)](#控件-图片)
+-	  [控件-文本(TextView)](#控件-文本)
+-	  [控件-输入框(EditText)](#控件-输入框)
+-	  [控件-按钮(Button)](#控件-按钮)
+- 	[控件-开关(Switch)](#控件-开关)
+- 	[控件-多选复选框(CheckBox)](#控件-多选复选框)
+-	  [控件-网页(WebView)](#控件-网页)
+-	  [控件-进度条(ProgressBar)](#控件-进度条)
+-	  [滑杆(Slider & SeekBar)](#滑杆) 
+-	  [选项卡(TabView)](#选项卡) 
+-	  [键盘(Keyboard)](#键盘) 
+-	  [二维码(ScanCode)](#二维码) 
+-	  [提示(Tip & Toast & SnackBar & Notify ...)](#提示) 
+-	  [弹出框(Dialog & PopWindow & Menu ...)](#弹出框) 
+-	  [动画(Animation)](#动画) 
+-	  [热修复-插件化-组件化(Fix & Plugins)](#热修复-插件化-组件化) 
+-	  [视图布局(View Layout)](#视图布局) 
+-	  [视图效果(View Effects)](#视图效果) 
+-	  [相机(Camera)](#相机) 
+-	  [视频-音频(Video & Audio)](#视频-音频) 
+-	  [直播相关(Live)](#直播相关) 
+-	  [图表(Chart)](#图表) 
+-	  [模糊(BLurry)](#模糊) 
+-	  [指纹识别(System & fingerprint)](#指纹识别) 
 - 	[蓝牙(System & Bluetooth)](#蓝牙)
--	[状态栏(System & StatusBar)](#状态栏) 
--	[文件阅读FDF(System & PDF ...)](#文件阅读) 
--	[下载(Download)](#下载) 
--	[换肤 & 主题(Skin & Theme)](#换肤-主题) 
--	[权限(System & Permission)](#权限) 
--	[数据存储(SQL & Cache & File ..)](#数据存储) 
--	[调试框架(Debug & Crash & Log)](#调试框架) 
--	[选择器(PickerView & FilePicker & ImagePicker ...)](#选择器) 
--	[转换工具(Convert)](#转换工具) 
--	[开发工具(Utils)](#开发工具) 
--	[开源项目(App)](#开源项目) 
--	[其它(Others)](#其它)
+-	  [状态栏(System & StatusBar)](#状态栏) 
+-	  [文件阅读FDF(System & PDF ...)](#文件阅读) 
+-	  [下载(Download)](#下载) 
+-	  [换肤 & 主题(Skin & Theme)](#换肤-主题) 
+-	  [权限(System & Permission)](#权限) 
+-	  [数据存储(SQL & Cache & File ..)](#数据存储) 
+-	  [调试框架(Debug & Crash & Log)](#调试框架) 
+-	  [选择器(PickerView & FilePicker & ImagePicker ...)](#选择器) 
+-	  [转换工具(Convert)](#转换工具) 
+-	  [开发工具(Utils)](#开发工具) 
+-	  [开源项目(App)](#开源项目) 
+-	  [其它(Others)](#其它)
 
 
 # 网络
@@ -63,6 +62,10 @@ Name | Describe | 截图
 [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | 非常全面的一个网络框架 | ![](https://raw.githubusercontent.com/amitshekhariitbhu/Fast-Android-Networking/master/assets/androidnetworking.png)
 [xUtils3](https://github.com/wyouflf/xUtils3) | xUtils 包含了orm, http(s), image, view注解, 但依然很轻量级(246K), 并且特性强大, 方便扩展，国人开发。 | 
 [AndroidNetworkTools](https://github.com/stealthcopter/AndroidNetworkTools) | 实用的Android网络工具集合：Ping，端口扫描，子网工具（找到本地网络上的设备），Wake-On-Lan网络唤醒... | 
+[AndServer](https://github.com/yanzhenjie/AndServer) | AndServer是一个Android的Web服务器, 支持部署动态网站和静态网站, 支持写Http接口，和Java的Servlet一样。 | 
+[NoHttp](https://github.com/yanzhenjie/NoHttp) | Android实现Http标准协议框架，支持缓存（提供五种缓存模式）、代理、重定向，底层可动态切换OkHttp、URLConnection。 | 
+[okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) | OkGo 该库是封装了okhttp的标准RESTful风格的网络请求框架，完美支持RxJava，RxJava2，比Retrofit更简单易用。支持自定义缓存数据，扩展了统一的上传管理和下载管理功能 |  ![](https://github.com/jeasonlzy/Screenshots/blob/master/okgo/demo13.gif)
+[picasso2-okhttp3-downloader](https://github.com/JakeWharton/picasso2-okhttp3-downloader) | Picasso使用 OkHttp 网络模块加载图片。 | 
 
 
 
@@ -92,6 +95,8 @@ Name | Describe | 截图
 [AppIntro](https://github.com/apl-devs/AppIntro) | 快速创建App好看的引导页 | ![](https://github.com/apl-devs/AppIntro/blob/master/art/layout2.png)
 [Material-ViewPagerIndicator](https://github.com/ronaldsmartin/Material-ViewPagerIndicator) | Material Design 动画风格的ViewPager指示器 | ![](https://github.com/apl-devs/AppIntro/blob/master/art/layout2.png)
 [PageIndicatorView](https://github.com/romandanylyk/PageIndicatorView) | ViewPager指示器 | ![](https://raw.githubusercontent.com/romandanylyk/PageIndicatorView/master/assets/preview_anim_drop.gif)
+[BGABanner-Android](https://github.com/bingoogolapple/BGABanner-Android) |  引导界面滑动导航 + 大于等于1页时无限轮播 + 各种切换动画轮播效果  | ![](https://cloud.githubusercontent.com/assets/8949716/17557718/dc235ec4-5f4a-11e6-92b7-144a2a1a1e3f.gif)
+
 
 
 
@@ -101,9 +106,15 @@ Name | Describe | 截图
 Name | Describe | 截图
 --- | --- | --- 
 [FancyShowCaseView](https://github.com/faruktoptas/FancyShowCaseView) | 一个带circular效果的可自定义的的功能提示，show case view | ![](https://cloud.githubusercontent.com/assets/1595227/24331187/ad143b80-1237-11e7-919c-36111c1ce559.gif)
-[MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) |  Material Design 风格的透明指示器  | ![](https://github.com/sjwall/MaterialTapTargetPrompt/blob/master/art/example_appbar.png)
-[HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView) |  透明指示器  | ![](https://github.com/jaydenxiao2016/HighLightGuideView/blob/master/screenshots/device-2016-08-16-161213.gif)
+[MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) |  Material Design 风格的透明指示器，新手引导库  | ![](https://github.com/sjwall/MaterialTapTargetPrompt/blob/master/art/example_appbar.png)
+[HighLightGuideView](https://github.com/jaydenxiao2016/HighLightGuideView) |  新手引导库，透明指示器  | ![](https://github.com/jaydenxiao2016/HighLightGuideView/blob/master/screenshots/device-2016-08-16-161213.gif)
 [Highlight](https://github.com/hongyangAndroid/Highlight) |  一个用于app指向性功能高亮的库  | ![](https://github.com/hongyangAndroid/Highlight/blob/master/gif/high_light_demo.gif)
+[GuideView](https://github.com/binIoter/GuideView) |  最最轻量级的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导提示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment  | ![](https://github.com/binIoter/GuideView/blob/master/app/src/main/assets/img1.png)
+[MaterialIntroView](https://github.com/iammert/MaterialIntroView) |  新手引导库，透明指示器  | ![](https://raw.githubusercontent.com/iammert/MaterialIntroView/master/art/materialintroviewgif.gif)
+
+
+
+
 
 
 # 手势交互
@@ -151,6 +162,14 @@ Name | Describe | 截图
 [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager) |  卡片式切换效果  | ![](https://camo.githubusercontent.com/46a0c2773275d5a5acedc76a2b38ac1ec105d47a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f556553377753634e6d526d5758417a526d52774e484d)
 [ViewPagerCards](https://github.com/rubensousa/ViewPagerCards) |  卡片式切换效果  | ![](https://camo.githubusercontent.com/8c3253122abfc3a84c9b7c2eeb83902c029ea550/68747470733a2f2f727562656e736f7573612e6769746875622e696f2f696d672f7669657770616765725f726573756c742e676966)
 [SwipeMenuDemo](https://github.com/Brioal/SwipeMenuDemo) |  多达288种动画效果定制的侧滑菜单库  | ![](https://github.com/Brioal/SwipeMenuDemo/blob/master/art/1.gif)
+[SwipeRecyclerView](https://github.com/yanzhenjie/SwipeRecyclerView) |  RecyclerView侧滑菜单，Item拖拽，滑动删除Item，自动加载更多，和ViewPager、DrawerLayout结合使用，和任何下拉刷新框架结合使用。  | ![](https://github.com/yanzhenjie/SwipeRecyclerView/blob/master/image/1.gif)
+[BGASwipeItemLayout-Android](https://github.com/bingoogolapple/BGASwipeItemLayout-Android) |  类似 iOS 带弹簧效果的左右滑动控件，可作为 AbsListView 和 RecyclerView 的 item  | ![](https://cloud.githubusercontent.com/assets/8949716/17476589/5a35c400-5d93-11e6-9de9-fbf6153dc5f3.gif)
+[ImageCoverFlow](https://github.com/dolphinwang/ImageCoverFlow) |  效果不错的画廊控件 可以设置画廊一次可见图片的张数，和其他第三方Gallery控件不同的是，该控件直接继承自View，而不是sdk中的Gallery控件  | ![](https://raw.githubusercontent.com/dolphinwang/ImageCoverFlow/master/imagecoverflow_screenshot.png)
+[CarouselLayoutManager](https://github.com/Azoft/CarouselLayoutManager) |  轮播效果的LayoutManager。  | ![](https://github.com/Azoft/CarouselLayoutManager/blob/master/resources/carousel_double_work_small.gif)
+[SwipeBackHelper](https://github.com/Jude95/SwipeBackHelper) |  手势返回Activity  | ![](https://github.com/Jude95/SwipeBackHelper/blob/master/swipeback.gif)
+[AndroidGooView](https://github.com/smartbetter/AndroidGooView) |  一个自定义粘性控件，拖动GooView，在一定的范围内具有粘性效果，当超出范围时，GooView消失。  | ![](https://raw.githubusercontent.com/smartbetter/AndroidGooView/master/website/static/screenshot.gif)
+
+
 
 
 
@@ -174,6 +193,18 @@ Name | Describe | 截图
 [expandable-recycler-view](https://github.com/thoughtbot/expandable-recycler-view) | 可以展开的RecyclerView | ![](https://cloud.githubusercontent.com/assets/5386934/17074123/b9d1efca-502c-11e6-9c9f-fb6180ee337f.gif)
 [RecyclerViewSnap](https://github.com/rubensousa/RecyclerViewSnap) | RecyclerView SnapHelper的例子。 | ![](https://github.com/rubensousa/RecyclerViewSnap/blob/master/screens/snap_googleplay.gif)
 [loaderviewlibrary](https://github.com/elye/loaderviewlibrary) | 制作列表闪烁效果 | ![](https://camo.githubusercontent.com/ad3e2fed505b8ae48e2a407f1e21361473605639/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6437343863335f32383338316330663131306634646336386663643334306235303366383661322537456d76322e676966)
+[ExpandableRecyclerview](https://github.com/zaihuishou/ExpandableRecyclerview) | 可以展开的RecycleView | ![](https://github.com/zaihuishou/ExpandableRecyclerview/blob/master/sample-screen.gif)
+[StickyHeaderView](https://github.com/christmasjason/StickyHeaderView) | 列表顶部悬浮效果 | ![](https://github.com/christmasjason/StickyHeaderView/blob/master/screen_record/sticky.gif)
+[UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) | UltimateRecyclerview是一种功能强大的RecyclerView（advanced and flexible version of ListView），包括了下拉刷新，加载更多，多种动画，空数据提示，拖动排序，视差处理，工具栏渐变，滑动删除，自定义floating button，多种刷新效果，scrollbar等等元素，而且使用起来跟RecyclerView一样的方便 | ![](https://camo.githubusercontent.com/853a63ecd7ea3f4dcc9262fff4e0b30ff8751a33/68747470733a2f2f627974656275636b65742e6f72672f6d61727368616c6368656e2f696d616765732f7261772f343462656231363231323163373139656134303934626437656131633966306364376465346330342f756c74696d61746572656379636c6572766965772f756c74696d6174655f72656379636c65727669657731312e676966)
+[AndroidExpandingViewLibrary](https://github.com/diegodobelo/AndroidExpandingViewLibrary) | 一个帮助你创建展开于收缩动画效果的库,非常漂亮。 |
+[SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) | ListView Item 添加滑动菜单 |  ![](https://raw.githubusercontent.com/baoyongzhang/SwipeMenuListView/master/demo.gif)
+[RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) | RecyclerView 添加分割线 |  ![](https://github.com/yqritc/RecyclerView-FlexibleDivider/blob/master/sample/sample2.gif)
+[baseAdapter](https://github.com/hongyangAndroid/baseAdapter) | Android 万能的Adapter for ListView,RecyclerView,GridView等，支持多种Item类型的情况。 |  
+[HeaderAndFooterRecyclerView](https://github.com/cundong/HeaderAndFooterRecyclerView) | HeaderAndFooterRecyclerView是支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案。 |   ![](https://raw.githubusercontent.com/cundong/HeaderAndFooterRecyclerView/master/art/art1.png)
+
+
+
+
 
 
 
@@ -190,6 +221,7 @@ Name | Describe | 截图
 [SmartisanPull](https://github.com/lcodecorex/TwinklingRefreshLayout) | 锤子下拉刷新 | ![](https://github.com/hougr/SmartisanPull/blob/master/screenshot/smartisan_pull_small.gif)
 [CircleRefreshLayout](https://github.com/tuesda/CircleRefreshLayout) | 炫酷下拉刷新 | ![](https://github.com/tuesda/CircleRefreshLayout/blob/master/gif/circlerefresh.gif)
 [BeautifulRefreshLayout](https://github.com/android-cjj/BeautifulRefreshLayout) | 众多下拉刷新 | ![](https://raw.githubusercontent.com/android-cjj/Android-MaterialRefreshLayout/master/gif/cjj1.gif)
+[FunGameRefresh](https://github.com/Hitomis/FunGameRefresh) | 好玩的下拉刷新控件，让我们一起来回味童年 | ![](https://github.com/Hitomis/FunGameRefresh/blob/master/preview/HitBlock.gif)
 
 
 
@@ -205,6 +237,9 @@ Name | Describe | 截图
 [AnimSideBar](https://github.com/AlexLiuSheng/AnimSideBar) | 波动动画的快速跳转 | ![](https://cloud.githubusercontent.com/assets/12408339/15278798/0df854a2-1b50-11e6-962e-15cb94ecc113.gif)
 [FastScroll](https://github.com/L4Digital/FastScroll) | 快速跳转 | ![](https://raw.githubusercontent.com/L4Digital/FastScroll/master/fastscroll_example.png)
 [WaveSideBar](https://github.com/gjiazhe/WaveSideBar) | 波动动画的快速跳转 | ![](https://github.com/gjiazhe/WaveSideBar/blob/master/screenshot/gif.gif)
+[WaveSideBar](https://github.com/Solartisan/WaveSideBar) | 一个快速跳跃分组的侧边栏控件，很好看 | ![](https://github.com/Solartisan/WaveSideBar/blob/master/preview/simple.gif)
+[Android-QuickSideBar](https://github.com/saiwu-bigkoo/Android-QuickSideBar) | 帮助快速查阅对应分组的侧边栏 | ![](https://github.com/saiwu-bigkoo/Android-QuickSideBar/blob/master/preview/quicksidebardemo.gif)
+
 
 
 
@@ -216,16 +251,8 @@ Name | Describe | 截图
 [Router](https://github.com/chenenyu/Router) | 灵活的组件化路由框架. | ![](https://github.com/chenenyu/Router/blob/master/static/screenshot.gif)
 [AndRouter](https://github.com/campusappcn/AndRouter) | 路由框架. |
 [Router](https://github.com/JumeiRdGroup/Router) | 一个简单易用的Android端路由框架. | ![](https://github.com/JumeiRdGroup/Router/blob/master/pics/route.gif)
+[android-dynamic-action](https://github.com/benniaobuguai/android-dynamic-action) | [Android Router] Android Dynamic Action，简称DA，是一种简便、可变Action的实现方案。你可以像访问网页一样地访问Activity。 |  
 
-
-
-# 控件-搜索框
-#### [返回目录](#目录)
-
-Name | Describe | 截图
---- | --- | ---
-[BilibiliSearchView](https://github.com/didixyy/BilibiliSearchView) | 模仿Bilibili的搜索框 | ![](https://github.com/didixyy/BilibiliSearchView/blob/master/test.gif)
-[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) | Material Design搜索框 | ![](https://github.com/mancj/MaterialSearchBar/blob/master/art/preview.gif)
 
 
 
@@ -269,6 +296,8 @@ Name | Describe | 截图
 [PolygonImageView](https://github.com/AlbertGrobas/PolygonImageView) | 是自定义ImageVie实现 多边形、圆形效果 |  ![](https://github.com/AlbertGrobas/PolygonImageView/blob/master/art/screen01.png)
 [GIFMakerDemo](https://github.com/sanchi3/GIFMakerDemo) | 一个使用多张图片合成gif文件的demo | 
 [LargeImage](https://github.com/LuckyJayce/LargeImage) | Android 加载大图 可以高清显示10000*10000像素的图片，轻松实现微博长图功能 | 
+[GifView](https://github.com/Cutta/GifView) | 播放Gif图片 | ![](https://camo.githubusercontent.com/19b4e43298746358948ac05ce184fa4d99029159/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236745073594c356841344945474166752f67697068792e676966)
+[Luban](https://github.com/Curzibn/Luban) | 图片压缩算法 | 
 
 
 
@@ -302,6 +331,17 @@ Name | Describe | 截图
 [ExpandTextView](https://github.com/hymanme/ExpandTextView) |  一个可折叠和展开的TextView控件  |  ![](https://github.com/Hymanme/ExpandTextView/raw/master/screenshots/show.gif)
 [TextViewExpandableAnimation](https://github.com/freecats/TextViewExpandableAnimation) |  一个可折叠和展开的TextView控件  |  ![](https://github.com/freecats/TextViewExpandableAnimation/blob/master/preview.gif)
 [FlycoLabelView](https://github.com/H07000223/FlycoLabelView) | 一个简单的Android标签控件  |  ![](https://github.com/H07000223/FlycoLabelView/blob/master/preview.png)
+[CountDownTextView](https://github.com/UFreedom/CountDownTextView) |  倒计时TextView  |  ![](https://github.com/UFreedom/CountDownTextView/blob/master/screenshots/demo.gif)
+[MixtureTextView](https://github.com/hongyangAndroid/MixtureTextView) |  支持Android图文混排、文字环绕图片等效果  |  ![](https://github.com/hongyangAndroid/MixtureTextView/blob/master/mixture.png)
+[Markdown](https://github.com/zzhoujay/Markdown) |  Android平台下的原生Markdown解析器  |  ![](https://github.com/zzhoujay/Markdown/blob/master/image/img1.jpg)
+[RichText](https://github.com/zzhoujay/RichText) |  Android平台下的富文本解析器，支持Html和Markdown  |  ![](https://github.com/zzhoujay/RichText/blob/master/image/image.jpg)
+[ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) |  可以扩展的TextView  |  ![](https://raw.githubusercontent.com/Manabu-GT/ExpandableTextView/master/art/readme_demo.gif)
+[ticker](https://github.com/robinhood/ticker) |  数字改变动画效果  |  ![](https://github.com/robinhood/ticker/blob/master/assets/ticker_main.gif)
+[ScrollNumber](https://github.com/a-voyager/ScrollNumber) |  数字滚动改变动画  |  ![](https://raw.githubusercontent.com/a-voyager/ScrollNumber/master/imgs/01.gif)
+[HTextView](https://github.com/hanks-zyh/HTextView) |  各种酷炫的文字切换动画  |  ![](https://github.com/hanks-zyh/HTextView/blob/master/screenshot/demo3.gif)
+[FlyTxtView](https://github.com/tosslife/FlyTxtView) |  仿《最美壁纸》iOS版文字逐个飞入效果  |  ![](https://github.com/tosslife/FlyTxtView/blob/master/demo.gif)
+[AnimTextView](https://github.com/z56402344/AnimTextView) |  数字动画效果的TextView  |  ![](https://camo.githubusercontent.com/928419dd3d300081d975c51b2a6ad293b9624ab7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323134323233363431303631)
+[SlantedTextView](https://github.com/HeZaiJin/SlantedTextView) |  一个倾斜的TextView,适用于标签效果。  |  ![](https://github.com/HeZaiJin/SlantedTextView/blob/master/screen_shot/screenshot.png)
 
 
 
@@ -317,6 +357,12 @@ Name | Describe | 截图
 [Pinview](https://github.com/GoodieBag/Pinview) | 数字码输入效果 | ![](https://camo.githubusercontent.com/4ca257787bd8b888b0dc811f490adb30f3217b0a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5535425035676b397a516171732f67697068792e676966)
 [TyperEditText](https://github.com/andyxialm/TyperEditText) | 打字效果显示动画 | ![](https://raw.githubusercontent.com/andyxialm/TyperEditText/master/art/screenshot.gif)
 [HintAnim-EditText](https://github.com/cctanfujun/HintAnim-EditText) | EditText提示文字切换动画 | ![](https://github.com/cctanfujun/HintAnim-EditText/blob/master/img/Hint-Anim.gif)
+[BilibiliSearchView](https://github.com/didixyy/BilibiliSearchView) | 模仿Bilibili的搜索框 | ![](https://github.com/didixyy/BilibiliSearchView/blob/master/test.gif)
+[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) | Material Design搜索框 | ![](https://github.com/mancj/MaterialSearchBar/blob/master/art/preview.gif)
+[CustomSpinner](https://github.com/piotrek1543/CustomSpinner) | 一个带搜索下拉列表提示的搜索控件 | ![](https://github.com/piotrek1543/CustomSpinner/blob/master/assets/ezgif-3622619846.gif)
+[AndroidEdit](https://github.com/qinci/AndroidEdit) | Android EditText的撤销和恢复（反撤销） | ![](https://github.com/qinci/AndroidEdit/blob/master/image/image.gif)
+
+
 
 
 
@@ -334,6 +380,8 @@ Name | Describe | 截图
 [StateButton](https://github.com/niniloveyou/StateButton) | 一个可以用代码设置selector背景（按下去背景颜色更改，样式变化等等）的button | ![](https://github.com/niniloveyou/StateButton/blob/master/image.png)
 [FloatingView](https://github.com/UFreedom/FloatingView) | 点击View向上漂浮一个一样的动画 | ![](https://github.com/UFreedom/FloatingView/blob/master/images/demo.gif)
 [RaiflatButton](https://github.com/rubensousa/RaiflatButton) | 点击波纹效果的Button | ![](https://github.com/rubensousa/RaiflatButton/blob/master/screens/demo.gif)
+[ThumbUp](https://github.com/ldoublem/ThumbUp) | 点赞两种状态的换库View | ![](https://github.com/ldoublem/ThumbUp/blob/master/screenShot/shot.gif)
+[ShineButton](https://github.com/ChadCSong/ShineButton) | 炫酷点赞效果 | ![](https://github.com/ChadCSong/ShineButton/blob/master/demo_shine_others.gif)
 
 
 
@@ -344,6 +392,9 @@ Name | Describe | 截图
 --- | --- | ---
 [TriStateToggleButton](https://github.com/BeppiMenozzi/TriStateToggleButton) | 自定义开关，三种状态 | ![](https://github.com/BeppiMenozzi/TriStateToggleButton/blob/master/images/tstb.gif)
 [RMSwitch](https://github.com/RiccardoMoro/RMSwitch) | 自定义开关 | ![](https://github.com/RiccardoMoro/RMSwitch/blob/master/switch-sample.gif)
+[JellyToggleButton](https://github.com/Nightonke/JellyToggleButton) | 果冻效果开关 | ![](https://raw.githubusercontent.com/Nightonke/JellyToggleButton/master/img/JellyToggleButton4.gif)
+[FaceOffToggleButton](https://github.com/Nightonke/FaceOffToggleButton) | 笑脸开关 | ![](https://github.com/Nightonke/FaceOffToggleButton/blob/master/img/Animation.gif)
+
 
 
 
@@ -367,6 +418,8 @@ Name | Describe | 截图
 [AgentWeb](https://github.com/Justson/AgentWeb) | 🔥 AgentWeb 是基于 Android WebView 一个功能完善小型浏览器库 。 使用很方便 ， 集成进你应用 ，只需几行代码 。 | ![](https://github.com/Justson/AgentWeb/blob/master/img/jd.png)
 [ShowImageFromWebView](https://github.com/yongyu0102/ShowImageFromWebView) | Android Webview 网页图片浏览和保存 | ![](https://github.com/yongyu0102/WeeklyBlogImages/blob/master/phase5/showImage.gif)
 [AdBlockedWebView-Android](https://github.com/AmniX/AdBlockedWebView-Android) | WebView广告过滤 | ![](https://camo.githubusercontent.com/7d15198ddb087ae09141ea29becb661bfaa96d21/687474703a2f2f7777772e67756964696e67746563682e636f6d2f6173736574732f706f7374696d616765732f323031362f30312f626c6f636b2d6164732d6f6e2d656467652d62726f777365722e706e67)
+[jsoup](https://github.com/jhy/jsoup) | 解析HTML | 
+
 
 
 
@@ -390,6 +443,10 @@ Name | Describe | 截图
 [DownloadProgressBar](https://github.com/panwrona/DownloadProgressBar) | 下载动画进度条 | ![](https://github.com/panwrona/DownloadProgressBar/blob/master/success.gif)
 [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) | 水波纹动画效果 | ![](https://camo.githubusercontent.com/8f83a9935a2b79ed9c63749a1b1b907e2cae850a/687474703a2f2f3778696b66632e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f776176656c6f6164696e67766965772e706e67)
 [CircleProgressBar](https://github.com/dinuscxj/CircleProgressBar) | 圆形进度条 | ![](https://raw.githubusercontent.com/dinuscxj/CircleProgressBar/master/Preview/CircleProgressBar.gif)
+[LikeSinaSportProgress](https://github.com/YangShaoXiong/LikeSinaSportProgress) | 仿新浪体育客户端的进度条,两队支持率效果 | ![](https://github.com/YangShaoXiong/LikeSinaSportProgress/blob/master/screenshot/image.gif)
+[LoadingView](https://github.com/ldoublem/LoadingView) | 简单的带有动画效果的加载控件 | ![](https://github.com/ldoublem/LoadingView/blob/master/screen/screen.gif)
+[StepView](https://github.com/baoyachi/StepView) | 流程指示器。 | ![](https://github.com/baoyachi/StepView/blob/master/art/splash.png)
+[ArcProgressStackView](https://github.com/Devlight/ArcProgressStackView) | 扇形进度条。 | ![](https://camo.githubusercontent.com/611d22202564ed670837756695c1d712f23c26ce/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363546a6c564e6b6c6855485a69625645)
 
 
 
@@ -407,6 +464,15 @@ Name | Describe | 截图
 [BubbleSeekBar](https://github.com/woxingxiao/BubbleSeekBar) | 自定义SeekBar，进度变化由可视化气泡样式呈现，定制化程度较高，适合大部分需求 | ![](https://github.com/woxingxiao/BubbleSeekBar/blob/master/screenshot/demo1.gif)
 [RangeChooseBar](https://github.com/Nipuream/RangeChooseBar) | 高仿人人车 范围选择器 | ![](https://github.com/Nipuream/RangeChooseBar/blob/master/choose_range.gif)
 [MaterialRatingBar](https://github.com/DreaminginCodeZH/MaterialRatingBar) | Material Design 星级评分控件 | ![](https://github.com/DreaminginCodeZH/MaterialRatingBar/blob/master/screenshot/sample_app.jpg)
+[SimpleRatingBar](https://github.com/FlyingPumba/SimpleRatingBar) | 手势星级评分控件 | ![](https://github.com/FlyingPumba/SimpleRatingBar/blob/master/images/sample.gif)
+[crystal-range-seekbar](https://github.com/syedowaisali/crystal-range-seekbar) | SeekBar的高级制定 | ![](https://camo.githubusercontent.com/a91a36fcd741020ed5fa45e4f6eb3860c4b3ddcf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3042396244454e794941425436636e68334d5859335457737451574d)
+[DiscreteSlider](https://github.com/lawloretienne/DiscreteSlider) | 类似uber/滴滴等app的滑动选择工具条。 | ![](https://raw.githubusercontent.com/lawloretienne/DiscreteSlider/master/images/DiscreteSlider_Screenshot4.png)
+[range-bar](https://github.com/edmodo/range-bar) | 范围选择条。 | ![](https://camo.githubusercontent.com/0ff8267b4b90dc0ef973e612dd9a5eb2232735cb/687474703a2f2f692e696d6775722e636f6d2f7138354768526a6c2e706e67)
+[material-range-bar](https://github.com/oli107/material-range-bar) | material 风格范围选择条。 | ![](https://github.com/oli107/material-range-bar/blob/master/Screenshots/pin%20expand.gif)
+[RangeSeekbar](https://github.com/dolphinwang/RangeSeekbar) | 范围选择条。 | ![](https://github.com/dolphinwang/RangeSeekbar/raw/master/Screenshot.png)
+
+
+
 
 
 
@@ -426,29 +492,10 @@ Name | Describe | 截图
 [LuseenBottomNavigation](https://github.com/armcha/LuseenBottomNavigation) |  页面底部切换控件  | ![](https://github.com/armcha/LuseenBottomNavigation/blob/master/ScreenShots/gifView2.gif)
 [Space-Navigation-View](https://github.com/armcha/Space-Navigation-View) |  炫酷页面底部切换控件  | ![](https://github.com/armcha/Space-Navigation-View/blob/master/screens/mainGif.gif)
 [SwitchButton](https://github.com/KingJA/SwitchButton) |  多项选择器，切换按钮  | ![](https://github.com/KingJA/SwitchButton/blob/master/img/usage.gif)
+[LoopBar](https://github.com/Cleveroad/LoopBar) |  酷炫的底部切换控件  | ![](https://github.com/Cleveroad/LoopBar/blob/master/images/demo.gif)
+[MagicIndicator](https://github.com/hackware1993/MagicIndicator) |  强大、可定制、易扩展的 ViewPager 指示器框架。  | ![](https://github.com/hackware1993/MagicIndicator/blob/master/magicindicator.gif)
+[NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip) |  ViewPager 指示器框架。  | ![](https://camo.githubusercontent.com/7ead597346be3b6ae76d307ae7891d12b766f2ab/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d304278504f5f55655337775363523346554e5452765331424a654545)
 
-
-
-
-
-# 键盘
-#### [返回目录](#目录)
-
-Name | Describe | 截图
---- | --- | ---
-[WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) | 高仿微信数字键盘、支付键盘(密码键盘),同样可以拿来改成支付宝的支付键盘 | ![](https://github.com/zuiwuyuan/WeChatPswKeyboard/blob/master/imgs/img.gif)
-[HideKeyboard](https://github.com/yingLanNull/HideKeyboard) | 仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库 | ![](https://github.com/yingLanNull/HideKeyboard/blob/master/show/show.gif)
-
-
-
-# 二维码
-#### [返回目录](#目录)
-
-Name | Describe | 截图
---- | --- | ---
-[PressScanCode](https://github.com/BolexLiu/PressScanCode) | A long scan View on the two-dimensional code library. WebView can also.一个可实现长按扫描识别 View 上的二维码的工具库。webView 也可以。  | ![](https://github.com/BolexLiu/PressScanCode/blob/master/tips.gif)
-[ZXingGenerator](https://github.com/vivian8725118/ZXingGenerator) | 花式二维码生成，提供了6种样式  | ![](https://github.com/vivian8725118/ZXingDemo/blob/master/art/S61128-17080029.jpg)
-[android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) | 几行代码快速集成二维码扫描功能  | ![](https://github.com/yipianfengye/android-zxingLibrary/blob/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif)
 
 
 
@@ -468,6 +515,11 @@ Name | Describe | 截图
 [Toasty](https://github.com/GrenderG/Toasty) | 漂亮的Toast效果 | ![](https://raw.githubusercontent.com/GrenderG/Toasty/master/art/collage.png)
 [ToastCompat](https://github.com/rongwu/ToastCompat) | 解决Android关闭通知消息权限无法弹出Toast的问题 | 
 [SnackbarUtils](https://github.com/HuanHaiLiuXin/SnackbarUtils) | Snackbar工具类 |  ![](https://github.com/HuanHaiLiuXin/SnackbarUtils/blob/master/%E5%BD%95%E5%B1%8F/%E6%89%80%E6%9C%89%E5%8A%9F%E8%83%BD%E5%BD%95%E5%B1%8F.gif)
+[TSnackBar](https://github.com/AndreiD/TSnackBar) | Snackbar从顶部弹出 |  ![](https://raw.githubusercontent.com/AndreiD/TSnackBar/master/app/snackbar.gif)
+[android-simple-tooltip](https://github.com/douglasjunior/android-simple-tooltip) | 一个带箭头的工具提示条 | ![](https://raw.githubusercontent.com/douglasjunior/android-simple-tooltip/master/screenshots/demo.gif)
+[BubbleView](https://github.com/cpiz/BubbleView) | BubbleView是带箭头的Android气泡控件/容器类，支持在布局中通过自定义属性或代码进行丰富的定制，包括箭头朝向、箭头位置、气泡弧角、边线颜色、边线粗细、颜色填充、填充Padding等等 | ![](https://github.com/cpiz/BubbleView/blob/master/screenshots/1.png)
+
+
 
 
 
@@ -492,54 +544,50 @@ Name | Describe | 截图
 [FlycoDialog_Master](https://github.com/H07000223/FlycoDialog_Master) | 一个强大的Android对话框库,简化自定义对话框.支持2.2+. |  ![](https://github.com/H07000223/FlycoDialog_Master/blob/master/screenshot/normal_dialog_1.png)
 [BottomSheet](https://github.com/soarcn/BottomSheet) | 底部弹出列表. |  ![](https://raw.githubusercontent.com/soarcn/BottomSheet/master/art/image.png)
 [android-adDialog](https://github.com/yipianfengye/android-adDialog) | 一个简单，强大的广告活动弹窗控件. |  ![](https://github.com/yipianfengye/android-adDialog/blob/master/images/ezgif.com-video-to-gif1.gif)
+[BottomDialog](https://github.com/Curzibn/BottomDialog) | BottomDialog 一个自定义的从底部弹出的dialog，仿照微博的分享弹框. |  ![](https://github.com/Curzibn/BottomDialog/blob/master/art/horizontal.png)
+[Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | 非常生动的上下文菜单效果，根据dribbble上的概念设计实现的。 |  ![](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)
+[Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | 超炫的侧滑菜单，效果很流畅，切换使用水波纹效果。 |  ![](https://camo.githubusercontent.com/cb6caa7a392d01d46bca9d9485c01fc173f55fac/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313638393932322f6576656e74732d6d656e755f312d312d362e676966)
 
 
 
 
-# 动画
+
+
+
+# 选择器
 #### [返回目录](#目录)
 
 Name | Describe | 截图
 --- | --- | ---
-[EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView) | View翻转动画 | ![](https://github.com/wajahatkarim3/EasyFlipView/blob/master/Art/demo.gif)
-[FlipAnimation](https://github.com/4xes/FlipAnimation) | View翻转动画 | ![](https://raw.githubusercontent.com/4xes/FlipAnimation/master/art/readme_demo.gif)
-[Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) | Android任何地方都能使用Transitions动画 | ![](https://camo.githubusercontent.com/0dbd6c6ad1b4f67503002df27efc5c0551183430/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f6335312f6231652f6232362f63353162316562323666623934313639386164356131333638643036363033622e676966)
-[android-magic-surface-view](https://github.com/gplibs/android-magic-surface-view) | 这是一个 android 动画特效库， 可以实现各种炫酷动画。 | ![](https://raw.githubusercontent.com/gplibs/resources/master/android/magic-surface-view/readme/launch.gif)
-[Grav](https://github.com/glomadrian/Grav) | Configurable animations based on points | ![](https://github.com/glomadrian/Grav/blob/master/art/wave.gif)
-[ExpectAnim](https://github.com/florent37/ExpectAnim) | 把属性动画封装成链式调用的形式。 | ![](https://github.com/florent37/ExpectAnim/blob/master/media/sample.gif)
-[lottie-android](https://github.com/airbnb/lottie-android) | 强大的动画库 | ![](https://github.com/airbnb/lottie-android/blob/master/gifs/Example2.gif)
-[ViewPagerAnimation](https://github.com/AndroidMsky/ViewPagerAnimation) | ViewPager16种切换动画 | ![](https://camo.githubusercontent.com/0f971c66615513fb03d9c8243b2664e44454b398/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323130313334393537393139)
-[ENViews](https://github.com/codeestX/ENViews) | 一个华丽丽的动效控件库 | ![](https://raw.githubusercontent.com/codeestX/ENViews/master/preview/o_loading.gif)
-[PathAnimView](https://github.com/mcxtzhang/PathAnimView) | 用于做Path动画的自定义View | ![](https://github.com/mcxtzhang/PathAnimView/blob/master/gif/qianbihua.gif)
-[TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) | Acitvity过渡跳转动画 | ![](https://github.com/ImmortalZ/TransitionHelper/blob/master/screenshots/image.gif)
-[android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | 包含旋转，翻转，抖动，跳动动画 | ![](https://github.com/thunderrise/android-TNRAnimationHelper/blob/master/images/rotation.gif)
-[Rotate3dAnimation](https://github.com/GcsSloop/Rotate3dAnimation) | 基于谷歌官方提供的3D翻转示例进行修改，修复了在不同设备上显示效果差异过大的问题。 | ![](https://github.com/GcsSloop/Rotate3dAnimation/blob/master/Pic/%E4%BF%AE%E6%AD%A3%E5%90%8E.gif)
-[ViewAnimator](https://github.com/florent37/ViewAnimator) | 链式调用属性动画，简化动画书写。 | ![](https://github.com/florent37/ViewAnimator/blob/master/EnhancedAnimations.gif)
-[ElemeShoppingView](https://github.com/JeasonWong/ElemeShoppingView) | 仿饿了么点击购物效果。 | 
-[Material-Animations](https://github.com/lgvalle/Material-Animations) | Android过渡动画解释和例子 | ![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)
-[ViewPagerTransforms](https://github.com/simplepeng/ViewPagerTransforms) | 给viewpager加上切换动画 | ![](https://raw.githubusercontent.com/simplepeng/ViewPagerTransforms/master/gifs/cardslide.gif)
+[PictureSelector](https://github.com/LuckSiege/PictureSelector) | (功能强大齐全)一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架。强烈推荐 | ![](https://github.com/LuckSiege/PictureSelector/blob/master/image/1.jpg)
+[android-pickers](https://github.com/addappcn/android-pickers) | 安卓选择器类库，包括日期及时间选择器(可设置范围)、单项选择器(可用于性别、职业、学历、星座等)、城市地址选择器(分省级、地级及县级)、数字选择器(可用于年龄、身高、体重、温度等)等……可以切换不同的模式(目前有普通模式，3d滚轮模式 | ![](https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-45-59.png)
+[EasyPickerView](https://github.com/huzenan/EasyPickerView) | 一个轻量级的PickerView | ![](https://github.com/huzenan/EasyPickerView/blob/master/screenshots/picker.gif)
+[HorizontalScrollSelectedView](https://github.com/385841539/HorizontalScrollSelectedView) | 横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况 | ![](https://github.com/385841539/HorizontalScrollSelectedView/blob/master/horizontalselectedviewlibrary/src/main/res/drawable/xiaoguo2.gif)
+[storage-chooser](https://github.com/codekidX/storage-chooser) | 文件选择器 | ![](https://camo.githubusercontent.com/6f690f12cf8f8cbf9a1e400fe73a4a3fbc075872/687474703a2f2f692e696d6775722e636f6d2f6e6d71504a6f6b2e676966)
+[LFilePicker](https://github.com/leonHua/LFilePicker) | Android 检索手机目录方式的文件选择器，轻量且界面友好，定制性高。 | ![](https://github.com/leonHua/LFilePicker/blob/master/screenshot/%E6%93%8D%E4%BD%9C.gif)
+[Album](https://github.com/yanzhenjie/Album) | Album是一个MD风格的开源相册，支持国际化，主要功能分为三部分：相册选图、相机拍照、画廊预览。 | ![](https://github.com/yanzhenjie/Album/blob/master/image/2.gif)
+[ColorPickerView](https://github.com/skydoves/ColorPickerView) | 颜色选择器 | ![](https://cloud.githubusercontent.com/assets/24237865/23684747/011279de-03e4-11e7-8cb3-3d5271efedc6.jpg)
+[recent-images](https://github.com/amirarcane/recent-images) | 带有画廊效果的图片选择器 | ![](https://raw.githubusercontent.com/amirarcane/recent-images/master/demo/Screenshot_2015-10-31-15-40-49.png)
+[boxing](https://github.com/Bilibili/boxing) | 基于MVP模式的Android多媒体选择器 | ![](https://github.com/Bilibili/boxing/blob/master/screenshot/multi_image.webp)
+[ImagePicker](https://github.com/martin90s/ImagePicker) | 图片选择器 | ![](https://github.com/martin90s/ScreenShot/blob/master/choose_avatar.gif)
+[PickView](https://github.com/brucetoo/PickView) | 时间和地址滚轮选择器 | ![](https://github.com/brucetoo/PickView/blob/master/datepick.gif)
+[PickPhotoSample](https://github.com/Werb/PickPhotoSample) | 图片选择器 | ![](https://github.com/Werb/PickPhotoSample/blob/master/screenshots/custom_1.png)
+[IPicker](https://github.com/liuguangqiang/IPicker) | 图片选择器 | ![](https://github.com/liuguangqiang/IPicker/blob/master/arts/1.png)
+[NumberPicker](https://github.com/ShawnLin013/NumberPicker) | 数字滚轮选择器 | ![](https://github.com/ShawnLin013/NumberPicker/blob/master/screenshot/number-picker-theme.png)
+[WheelPicker](https://github.com/AigeStudio/WheelPicker) | 滚轮选择器 | ![](https://github.com/AigeStudio/WheelPicker/blob/master/Previews/main/Preview.gif)
+[MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) | 文件选择器 | ![](https://github.com/fishwjy/MultiType-FilePicker/blob/master/pic/pick_img.gif)
+[ImageSelector](https://github.com/smuyyh/ImageSelector) | Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏 | ![](https://raw.githubusercontent.com/smuyyh/ImageSelector/master/screenshot/screen_1.png)
+[TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) | 时间滚轮选择器 | ![](https://github.com/JZXiang/PickerView/raw/master/preview/timepickerdialog_demo.gif)
+[CityPicker](https://github.com/zaaach/CityPicker) | 一个漂亮的城市选择器 | ![](https://github.com/zaaach/CityPicker/raw/master/art/screen.gif)
+[PhotoPicker](https://github.com/donglua/PhotoPicker) | 图片选择器 | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
+[TedBottomPicker](https://github.com/ParkSangGwon/TedBottomPicker) | 底部弹出的图片选择器 | ![](https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/screenshot1.jpeg)
+[TakePhoto](https://github.com/crazycodeboy/TakePhoto) | 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 | ![](https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png)
+[CharacterPickerView](https://github.com/ImKarl/CharacterPickerView) | 可实现三级联动的选择器，高仿iOS的滚轮控件，字体大小自适应 | ![](https://github.com/ImKarl/CharacterPickerView/blob/master/Screenshot/Screenshot_2015-11-13-154813.gif)
+[MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker) | 文件选择器 | ![](https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67)
+[Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) | 文件选择器 | ![](https://camo.githubusercontent.com/5f661f6f87dca57b1cef299ad11a24d3234ffc0c/68747470733a2f2f696d6167652e6962622e636f2f6952707a74762f6465766963655f323031375f30335f31305f3136343030332e706e67)
+[MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) | 时间选择器 | ![](https://camo.githubusercontent.com/e72e9ce81a905baac712a2e3c74ac47408f65b8e/68747470733a2f2f7261772e6769746875622e636f6d2f7764756c6c6165722f4d6174657269616c4461746554696d655069636b65722f67682d70616765732f696d616765732f646174655f7069636b65725f76322e706e67)
+[AndroidPhotoshopColorPicker](https://github.com/AzeeSoft/AndroidPhotoshopColorPicker) | 颜色选择器 | ![](https://raw.githubusercontent.com/AzeeSoft/AndroidPhotoshopColorPicker/master/raw/screen_1.jpg)
 
-
-
-
-# 热修复-插件化-组件化
-#### [返回目录](#目录)
-
-Name | Describe | 截图
---- | --- | ---
-[JAndFix](https://github.com/qiuba/JAndFix) | JAndFix是一种基于Java实现的Android实时热修复方案，它并不需要重新启动就能生效。JAndFix是在AndFix的基础上改进实现，AndFix主要是通过jni实现对method(ArtMethod)结构题内容的替换。JAndFix是通过Unsafe对象直接操作Java虚拟机内存来实现替换。 |  
-[HtmlNative](https://github.com/hsllany/HtmlNative) | 使用Html来渲染Android界面的动态化界面方案 | ![](https://github.com/hsllany/HtmlNative/blob/master/doc/screen2.jpg)
-[Surgeon](https://github.com/TangXiaoLv/Surgeon) | Runtime function replace for android. Android方法热替换框架 |  
-[ExplosionField](https://github.com/tyrantgit/ExplosionField) | View爆炸粉碎效果 | ![](https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif)
-[Robust](https://github.com/Meituan-Dianping/Robust) | 美团新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%。 |  
-[atlas](https://github.com/alibaba/atlas) | Atlas是伴随着手机淘宝的不断发展而衍生出来的一个运行于Android系统上的一个容器化框架，我们也叫动态组件化(Dynamic Bundle)框架。它主要提供了解耦化、组件化、动态性的支持。覆盖了工程师的工程编码期、Apk运行期以及后续运维期的各种问题。 |  
-[LiujiaqiAndroid](https://github.com/ljqloveyou123/LiujiaqiAndroid) | 插件化系列详解 |  
-[Aceso](https://github.com/meili/Aceso) | Aceso是基于Instant Run Hot Swap的Android热修复方案，使用它你能在不用重新发布版本的情况下对线上app的bug进行修复。 |  
-[tinker](https://github.com/Tencent/tinker) | 腾讯开源的热修复方案。 | ![](https://github.com/Tencent/tinker/blob/master/assets/tinker.png)
-[AnoleFix](https://github.com/dodola/AnoleFix) | Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似。 | ![](https://github.com/dodola/AnoleFix/blob/master/screenshot/1.png)
-[DroidFix](https://github.com/bunnyblue/DroidFix) | 代码热修复,该方案基于的是android dex分包方案的,很久没有更新了，可以学习。 | ![](https://github.com/dodola/AnoleFix/blob/master/screenshot/1.png)
-[Amigo](https://github.com/eleme/Amigo) | 饿了么开源，一个Android 平台的hotfix 库, 支持热更新，支持热修复。 | 
-[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) | 成熟易懂的Android插件补丁框架（可直接商业化的项目，日活千万级项目多年使用验证稳定） | 
 
 
 
@@ -560,6 +608,15 @@ Name | Describe | 截图
 [AndroidTagGroup](https://github.com/2dxgujun/AndroidTagGroup) |  一个漂亮的Tag。  | ![](https://camo.githubusercontent.com/8adbb5c44c656151cb108ada6d1383e2c6af38b7/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f62636532646561396a7731657362736279397635666a323075303077386a78782e6a7067)
 [AndroidAutoLayout](https://github.com/hongyangAndroid/AndroidAutoLayout) | [停止维护]Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。  | ![](https://github.com/hongyangAndroid/AndroidAutoLayout/blob/master/autolayout_08.png)
 [android-drag-FlowLayout](https://github.com/LightSun/android-drag-FlowLayout) | 可拖拽的流布局库  | ![](https://github.com/LightSun/android-drag-FlowLayout/blob/master/art/drag_flowlayout.gif)
+[Fragmentation](https://github.com/YoKeyword/Fragmentation) | 为"单Activity ＋ 多Fragment","多模块Activity + 多Fragment"架构而生，简化开发，轻松解决动画、嵌套、事务相关等问题。  | ![](https://github.com/YoKeyword/Fragmentation/blob/master/gif/demo.gif)
+[AndroidFlowLayout](https://github.com/LyndonChin/AndroidFlowLayout) |  流式布局  | ![](https://github.com/LyndonChin/AndroidFlowLayout/blob/master/screenshot.png)
+[TagCloudView](https://github.com/kingideayou/TagCloudView) |  支持 SingleLine 模式的标签云效果  | ![](https://raw.githubusercontent.com/kingideayou/TagCloudView/master/imgs/tagCloudView_1.png)
+[TEmptyView](https://github.com/barryhappy/TEmptyView) |  更简单地设置EmptyView，免除每次设置emptyView都要写xml之苦。 支持AdapterView(ListView/GridView等)、RecyclerView。  | ![](https://github.com/barryhappy/TEmptyView/blob/master/etc/demo1.png)
+[ChatKeyboard](https://github.com/CPPAlien/ChatKeyboard) |  聊天输入工具栏。  | ![](https://camo.githubusercontent.com/83a81944a133dfe5981fbf54ad11ce6c7a22a2ee/687474703a2f2f3778713237362e636f6d322e7a302e676c622e71696e697563646e2e636f6d2f6b6579626f6172642d64656d6f2e676966)
+[MultipleStatusView](https://github.com/qyxxjd/MultipleStatusView) |  一个支持多种状态的自定义View,可以方便的切换到：加载中视图、错误视图、空数据视图、网络异常视图、内容视图。  | ![](https://github.com/qyxxjd/MultipleStatusView/blob/master/screenshots/demo.gif)
+[ExpandableLayout](https://github.com/SilenceDut/ExpandableLayout) |  可以展开的View  | ![](https://github.com/SilenceDut/ExpandableLayout/blob/master/media/simple_use.gif)
+[FlowLayout](https://github.com/hongyangAndroid/FlowLayout) |  Android流式布局，支持单选、多选等，适合用于产品标签等。  | ![](https://github.com/hongyangAndroid/FlowLayout/blob/master/flowlayout_03.gif)
+
 
 
 
@@ -593,6 +650,105 @@ Name | Describe | 截图
 [ShapeRipple](https://github.com/poldz123/ShapeRipple) | 水波纹扩散效果。 | ![](https://camo.githubusercontent.com/db99dfc9e68bf137365ae747acf3c20a3e74c119/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3134325536427639584d32354c572f67697068792e676966)
 [DashedLine](https://github.com/ZQiang94/DashedLine) | 虚线。 | ![](https://raw.githubusercontent.com/ZQiang94/DashedLine/master/demo.png)
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | 在滚动的视图观测滚动事件的Android库。 | ![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)
+[BGABadgeView-Android](https://github.com/bingoogolapple/BGABadgeView-Android) | Android 徽章控件。 | ![](https://cloud.githubusercontent.com/assets/8949716/17483429/8f5ab3aa-5db8-11e6-808c-6033f5d5c4ec.gif)
+[android_scratchoff](https://github.com/jackpocket/android_scratchoff) | 擦除效果View。 | ![](https://raw.githubusercontent.com/jackpocket/android_scratchoff/master/scratchoff.gif)
+[UpMarqueeTextView-master](https://github.com/dreamlivemeng/UpMarqueeTextView-master) | 仿淘宝首页的淘宝头条垂直滚动  | ![](https://github.com/dreamlivemeng/UpMarqueeTextView-master/blob/master/screenshots/upmarqueeview.gif)
+[PaperShredder](https://github.com/ldoublem/PaperShredder) | 文件粉碎机效果  | ![](https://github.com/ldoublem/PaperShredder/blob/master/screenshot/shot.png)
+[MarqueeLayoutLibrary](https://github.com/oubowu/MarqueeLayoutLibrary) | 一个支持四个方向循环滚动的自定义控件  | ![](https://github.com/oubowu/MarqueeLayoutLibrary/blob/master/pic/demo.gif)
+[FontsManager](https://github.com/GcsSloop/FontsManager) | 方便快速的为应用内所有组件更换字体  | ![](https://camo.githubusercontent.com/0de05fc8a445b47decf2f3ba92e333ad5cb6daca/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f30303558746469326a773166326970373771387964673330366a3062346a72792e676966)
+[MarqueeView](https://github.com/sfsheng0322/MarqueeView) | 俗名：垂直跑马灯；学名：垂直翻页公告  | ![](https://github.com/sfsheng0322/MarqueeView/blob/master/screenshot/MarqueeView_Gif.gif)
+[FogView_Library](https://github.com/dynamitechetan/FogView_Library) | 雾气擦除效果View。  | ![](https://github.com/dynamitechetan/FogView_Library/blob/master/screenshots/screen1.gif)
+[Popview-Android](https://github.com/krishnarb3/Popview-Android) | View爆炸效果。  | ![](https://camo.githubusercontent.com/0507f2331a833b16bfac0215679af3481c564e5c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f466f47536374744f46386534302f67697068792e676966)
+[ShadowViewHelper](https://github.com/wangjiegulu/ShadowViewHelper) | View实现阴影效果。  | ![](https://github.com/wangjiegulu/ShadowViewHelper/blob/master/screenshot/shadow_a.png)
+[Calligraphy](https://github.com/chrisjenx/Calligraphy) | 自定义字体 | ![](https://raw.githubusercontent.com/chrisjenx/Calligraphy/master/screenshot.png)
+
+
+
+
+
+# 动画
+#### [返回目录](#目录)
+
+Name | Describe | 截图
+--- | --- | ---
+[EasyFlipView](https://github.com/wajahatkarim3/EasyFlipView) | View翻转动画 | ![](https://github.com/wajahatkarim3/EasyFlipView/blob/master/Art/demo.gif)
+[FlipAnimation](https://github.com/4xes/FlipAnimation) | View翻转动画 | ![](https://raw.githubusercontent.com/4xes/FlipAnimation/master/art/readme_demo.gif)
+[Transitions-Everywhere](https://github.com/andkulikov/Transitions-Everywhere) | Android任何地方都能使用Transitions动画 | ![](https://camo.githubusercontent.com/0dbd6c6ad1b4f67503002df27efc5c0551183430/68747470733a2f2f686162726173746f726167652e6f72672f66696c65732f6335312f6231652f6232362f63353162316562323666623934313639386164356131333638643036363033622e676966)
+[android-magic-surface-view](https://github.com/gplibs/android-magic-surface-view) | 这是一个 android 动画特效库， 可以实现各种炫酷动画。 | ![](https://raw.githubusercontent.com/gplibs/resources/master/android/magic-surface-view/readme/launch.gif)
+[Grav](https://github.com/glomadrian/Grav) | Configurable animations based on points | ![](https://github.com/glomadrian/Grav/blob/master/art/wave.gif)
+[ExpectAnim](https://github.com/florent37/ExpectAnim) | 把属性动画封装成链式调用的形式。 | ![](https://github.com/florent37/ExpectAnim/blob/master/media/sample.gif)
+[lottie-android](https://github.com/airbnb/lottie-android) | 强大的动画库 | ![](https://github.com/airbnb/lottie-android/blob/master/gifs/Example2.gif)
+[ViewPagerAnimation](https://github.com/AndroidMsky/ViewPagerAnimation) | ViewPager16种切换动画 | ![](https://camo.githubusercontent.com/0f971c66615513fb03d9c8243b2664e44454b398/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313531323130313334393537393139)
+[ENViews](https://github.com/codeestX/ENViews) | 一个华丽丽的动效控件库 | ![](https://raw.githubusercontent.com/codeestX/ENViews/master/preview/o_loading.gif)
+[PathAnimView](https://github.com/mcxtzhang/PathAnimView) | 用于做Path动画的自定义View | ![](https://github.com/mcxtzhang/PathAnimView/blob/master/gif/qianbihua.gif)
+[TransitionHelper](https://github.com/ImmortalZ/TransitionHelper) | Acitvity过渡跳转动画 | ![](https://github.com/ImmortalZ/TransitionHelper/blob/master/screenshots/image.gif)
+[android-TNRAnimationHelper](https://github.com/thunderrise/android-TNRAnimationHelper) | 包含旋转，翻转，抖动，跳动动画 | ![](https://github.com/thunderrise/android-TNRAnimationHelper/blob/master/images/rotation.gif)
+[Rotate3dAnimation](https://github.com/GcsSloop/Rotate3dAnimation) | 基于谷歌官方提供的3D翻转示例进行修改，修复了在不同设备上显示效果差异过大的问题。 | ![](https://github.com/GcsSloop/Rotate3dAnimation/blob/master/Pic/%E4%BF%AE%E6%AD%A3%E5%90%8E.gif)
+[ViewAnimator](https://github.com/florent37/ViewAnimator) | 链式调用属性动画，简化动画书写。 | ![](https://github.com/florent37/ViewAnimator/blob/master/EnhancedAnimations.gif)
+[ElemeShoppingView](https://github.com/JeasonWong/ElemeShoppingView) | 仿饿了么点击购物效果。 | 
+[Material-Animations](https://github.com/lgvalle/Material-Animations) | Android过渡动画解释和例子 | ![](https://raw.githubusercontent.com/lgvalle/Material-Animations/master/screenshots/transition_explode.gif)
+[ViewPagerTransforms](https://github.com/simplepeng/ViewPagerTransforms) | 给viewpager加上切换动画 | ![](https://raw.githubusercontent.com/simplepeng/ViewPagerTransforms/master/gifs/cardslide.gif)
+[Pulsator4Droid](https://github.com/booncol/Pulsator4Droid) | 波纹扩散动画 | ![](https://github.com/booncol/Pulsator4Droid/blob/master/demo.gif)
+[PreLollipopTransition](https://github.com/takahirom/PreLollipopTransition) | Android中Activity切换时共享视图元素的切换动画（4.x兼容方案） | ![](https://cloud.githubusercontent.com/assets/1386930/7614211/53ca12d8-f9d0-11e4-8b98-b6d98272f67d.gif)
+[AnimatedSvgView](https://github.com/jaredrummler/AnimatedSvgView) | SVG 动画 | ![](https://github.com/jaredrummler/AnimatedSvgView/blob/master/demo/demo.gif)
+
+
+
+
+
+
+# 热修复-插件化-组件化
+#### [返回目录](#目录)
+
+Name | Describe | 截图
+--- | --- | ---
+[JAndFix](https://github.com/qiuba/JAndFix) | JAndFix是一种基于Java实现的Android实时热修复方案，它并不需要重新启动就能生效。JAndFix是在AndFix的基础上改进实现，AndFix主要是通过jni实现对method(ArtMethod)结构题内容的替换。JAndFix是通过Unsafe对象直接操作Java虚拟机内存来实现替换。 |  
+[HtmlNative](https://github.com/hsllany/HtmlNative) | 使用Html来渲染Android界面的动态化界面方案 | ![](https://github.com/hsllany/HtmlNative/blob/master/doc/screen2.jpg)
+[Surgeon](https://github.com/TangXiaoLv/Surgeon) | Runtime function replace for android. Android方法热替换框架 |  
+[ExplosionField](https://github.com/tyrantgit/ExplosionField) | View爆炸粉碎效果 | ![](https://github.com/tyrantgit/ExplosionField/blob/master/explosionfield.gif)
+[Robust](https://github.com/Meituan-Dianping/Robust) | 美团新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题作出反应，补丁修补成功率高达99.9%。 |  
+[atlas](https://github.com/alibaba/atlas) | Atlas是伴随着手机淘宝的不断发展而衍生出来的一个运行于Android系统上的一个容器化框架，我们也叫动态组件化(Dynamic Bundle)框架。它主要提供了解耦化、组件化、动态性的支持。覆盖了工程师的工程编码期、Apk运行期以及后续运维期的各种问题。 |  
+[LiujiaqiAndroid](https://github.com/ljqloveyou123/LiujiaqiAndroid) | 插件化系列详解 |  
+[Aceso](https://github.com/meili/Aceso) | Aceso是基于Instant Run Hot Swap的Android热修复方案，使用它你能在不用重新发布版本的情况下对线上app的bug进行修复。 |  
+[tinker](https://github.com/Tencent/tinker) | 腾讯开源的热修复方案。 | ![](https://github.com/Tencent/tinker/blob/master/assets/tinker.png)
+[AnoleFix](https://github.com/dodola/AnoleFix) | Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似。 | ![](https://github.com/dodola/AnoleFix/blob/master/screenshot/1.png)
+[DroidFix](https://github.com/bunnyblue/DroidFix) | 代码热修复,该方案基于的是android dex分包方案的,很久没有更新了，可以学习。 | ![](https://github.com/dodola/AnoleFix/blob/master/screenshot/1.png)
+[Amigo](https://github.com/eleme/Amigo) | 饿了么开源，一个Android 平台的hotfix 库, 支持热更新，支持热修复。 | 
+[ZeusPlugin](https://github.com/iReaderAndroid/ZeusPlugin) | 成熟易懂的Android插件补丁框架（可直接商业化的项目，日活千万级项目多年使用验证稳定） | 
+[RePlugin](https://github.com/Qihoo360/RePlugin) | 360开源的最新的插件化方案，RePlugin是一套完整的、稳定的、适合全面使用的，占坑类插件化方案 | 
+[VirtualAPK](https://github.com/didi/VirtualAPK) | DiDi开源的插件化方案 | 
+[understand-plugin-framework](https://github.com/tiann/understand-plugin-framework) | 分析DroidPlugin，深入理解插件化框架 | 
+[Small](https://github.com/wequick/Small) | 跨平台插件化框架。 | ![](https://camo.githubusercontent.com/798b51f0fb90a0ece76381cb807e19fafe930bd6/687474703a2f2f636f64652e7765717569636b2e6e65742f6173736574732f696d616765732f736d616c6c2d6172636869746563747572652e706e67)
+[RocooFix](https://github.com/dodola/RocooFix) | Android 热修复方案 |  ![](https://github.com/dodola/RocooFix/blob/master/images/device-2016-05-28-010835.png)
+[AnoleFix](https://github.com/dodola/AnoleFix) | Another hotfix 另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似 | 
+[dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) | Apk动态加载框架 |  ![](https://github.com/singwhatiwanna/dynamic-load-apk/blob/master/imgs/dl.png)
+
+
+
+
+
+
+# 键盘
+#### [返回目录](#目录)
+
+Name | Describe | 截图
+--- | --- | ---
+[WeChatPswKeyboard](https://github.com/zuiwuyuan/WeChatPswKeyboard) | 高仿微信数字键盘、支付键盘(密码键盘),同样可以拿来改成支付宝的支付键盘 | ![](https://github.com/zuiwuyuan/WeChatPswKeyboard/blob/master/imgs/img.gif)
+[HideKeyboard](https://github.com/yingLanNull/HideKeyboard) | 仿iOS输入法点击输入框以外区域 自动隐藏软键盘轻量级库 | ![](https://github.com/yingLanNull/HideKeyboard/blob/master/show/show.gif)
+
+
+
+# 二维码
+#### [返回目录](#目录)
+
+Name | Describe | 截图
+--- | --- | ---
+[PressScanCode](https://github.com/BolexLiu/PressScanCode) | A long scan View on the two-dimensional code library. WebView can also.一个可实现长按扫描识别 View 上的二维码的工具库。webView 也可以。  | ![](https://github.com/BolexLiu/PressScanCode/blob/master/tips.gif)
+[ZXingGenerator](https://github.com/vivian8725118/ZXingGenerator) | 花式二维码生成，提供了6种样式  | ![](https://github.com/vivian8725118/ZXingDemo/blob/master/art/S61128-17080029.jpg)
+[android-zxingLibrary](https://github.com/yipianfengye/android-zxingLibrary) | 几行代码快速集成二维码扫描功能  | ![](https://github.com/yipianfengye/android-zxingLibrary/blob/master/images/ezgif.com-video-to-gif%20(2)%2015.33.08.gif)
+[BGAQRCode-Android](https://github.com/bingoogolapple/BGAQRCode-Android) | QRCode 扫描二维码、扫描条形码、相册获取图片后识别、生成带 Logo 二维码、支持微博微信 QQ 二维码扫描样式  | ![](https://cloud.githubusercontent.com/assets/8949716/17475203/5d788730-5d8c-11e6-836a-61e885e05453.gif)
+[barcodescanner](https://github.com/dm77/barcodescanner) | 扫描二维码  | ![](https://camo.githubusercontent.com/f04fa272b7050bf763648daea650cb0ca3fad89a/68747470733a2f2f7261772e6769746875622e636f6d2f646d37372f626172636f64657363616e6e65722f6d61737465722f73637265656e73686f74732f7363616e6e65722e706e67)
+
 
 
 
@@ -639,6 +795,9 @@ Name | Describe | 截图
 [TigerVideo](https://github.com/huyongli/TigerVideo) | 播放在线视频的APP，基于TextureView和MediaPlayer实现视频播放功能，包括列表中播放视频，全屏播放视频，列表中滑动时小窗口播放视频等功能 | ![](https://github.com/huyongli/TigerVideo/blob/master/screenshots/1.jpg)
 [AZBarrage](https://github.com/Xieyupeng520/AZBarrage) | Android弹幕效果，随机颜色，大小，高度，内容  | ![](https://github.com/Xieyupeng520/AZBarrage/blob/master/app/src/main/res/raw/show.gif)
 [AndroidAudioRecorder](https://github.com/adrielcafe/AndroidAudioRecorder) | Android音频录制  | ![](https://raw.githubusercontent.com/adrielcafe/AndroidAudioRecorder/master/demo.gif)
+[VideoListDemo](https://github.com/w1123440793/VideoListDemo) | 一个视频播放列表demo，视频播放使用的ijkplayer,正在播放视频拖动到不可见区域小窗口播放，可全屏切换  | ![](https://github.com/w1123440793/VideoListDemo/blob/master/screenshots/vidiolist.gif)
+[DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) | Bilibili Android开源弹幕引擎·烈焰弹幕使  | 
+[easy-video-player](https://github.com/afollestad/easy-video-player) | 视频播放器  | ![](https://raw.githubusercontent.com/afollestad/easy-video-player/master/art/showcase2.png)
 
 
 
@@ -665,6 +824,8 @@ Name | Describe | 截图
 [SpiderWebScoreView](https://github.com/xiaopansky/SpiderWebScoreView) | 一个蛛网评分控件  | ![](https://raw.githubusercontent.com/xiaopansky/SpiderWebScoreView/master/docs/sample.png)
 [AndroidCustomView](https://github.com/AllenCoder/AndroidCustomView) | 一个简单的投票排名对比图  | ![](https://github.com/AllenCoder/AndroidCustomView/blob/master/gif/device-2016-09-08-213022.png)
 [Jgraph](https://github.com/ZuYun/Jgraph) | 一个视觉效果还不错的图表控件  | ![](https://raw.githubusercontent.com/mychoices/Jgraph/master/gif/4.gif)
+[SeatTable](https://github.com/qifengdeqingchen/SeatTable) | 电影票在线选座  | ![](https://github.com/qifengdeqingchen/SeatTable/blob/master/demo.gif)
+[spark](https://github.com/robinhood/spark) | 线性图表库  | ![](https://github.com/robinhood/spark/blob/master/images/sample.png)
 
 
 
@@ -681,6 +842,9 @@ Name | Describe | 截图
 [BlurImageView](https://github.com/wingjay/BlurImageView) | 模糊库 | ![](https://github.com/wingjay/BlurImageView/blob/master/assets/blurImageView_nm.gif)
 [RealtimeBlurView](https://github.com/mmin18/RealtimeBlurView) | 模糊库 | ![](https://github.com/mmin18/RealtimeBlurView/blob/master/imgs/1.gif)
 [BlurredView](https://github.com/wl9739/BlurredView) | 模糊库 | ![](https://github.com/wl9739/BlurredView/blob/master/Gif/demo.gif)
+[BlurView](https://github.com/Dimezis/BlurView) | 模糊库 | ![](https://github.com/Dimezis/BlurView/blob/master/BlurScreenshot.png)
+
+
 
 
 # 指纹识别
@@ -707,6 +871,9 @@ Name | Describe | 截图
 Name | Describe | 截图
 --- | --- | ---
 [ImmersionBar](https://github.com/gyf-dev/ImmersionBar) | android 4.4以上沉浸式状态栏和沉浸式导航栏管理，一句代码轻松实现，以及对bar的其他设置 | ![](https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/Screenshot_6.0.gif)
+[StatusBarUtil](https://github.com/laobie/StatusBarUtil) | 这是一个为Android App 设置状态栏的工具类， 可以在4.4及其以上系统中实现 沉浸式状态栏/状态栏变色，支持设置状态栏透明度 | ![](https://github.com/laobie/StatusBarUtil/blob/master/img/set_for_image_view_page.png)
+[FlycoSystemBar](https://github.com/H07000223/FlycoSystemBar) | 一个处理SystemBar（状态栏和底部导航）的工具类，包括状态栏透明，只有一个SystemBarHelper类 | ![](https://github.com/H07000223/FlycoSystemBar/blob/master/art/5.0.gif)
+
 
 
 
@@ -718,6 +885,10 @@ Name | Describe | 截图
 [SmsObserverForAndroid](https://github.com/Robin-jiangyufeng/SmsObserverForAndroid) | 这是一个用于拦截android实时短信的库,可以进行短信过滤,得到自己想要的内容,可以用于需要自动填写短信验证码的app项目 |  
 [AndroidPDF](https://github.com/lidong1665/AndroidPDF) | 展示PDF的控件，支持本地和网络 | ![](https://camo.githubusercontent.com/be6f7f068fbc70a0d353116456ea8c994e5f6382/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313631313032313531373536373630)
 [FolioReader-Android](https://github.com/FolioReader/FolioReader-Android) | 完成度很高的一款 ePub Android 阅读器  | ![](https://cloud.githubusercontent.com/assets/1277242/19012915/0661c7b2-87e0-11e6-81d6-8c71051e1074.gif)
+[AndroidPdfViewer](https://github.com/barteksc/AndroidPdfViewer) | 展示PDF的控件  | 
+[PdfViewPager](https://github.com/voghDev/PdfViewPager) | 展示PDF的控件  | ![](https://github.com/voghDev/PdfViewPager/blob/master/screenshots/local.gif)
+
+
 
 
 
@@ -739,6 +910,8 @@ Name | Describe | 截图
 [Android-skin-support](https://github.com/ximsfei/Android-skin-support) | 一款用心去做的Android 换肤框架, 极低的学习成本, 极好的用户体验. 只需要两行代码, 就可以实现换肤 |  
 [Colorful](https://github.com/garretyoder/Colorful) | 轻松的动态改变你的主题颜色 | ![](https://github.com/garretyoder/Colorful/blob/master/screenshots/art2.png)
 [Colorful](https://github.com/hehonghui/Colorful) | 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式 | ![](https://github.com/hehonghui/Colorful/blob/master/images/colorful.gif)
+[NightModel](https://github.com/achenglike/NightModel) | 这是个方便切换夜间模式的库，利用官方夜间模式，同时不用重启Activity |
+[Scoops](https://github.com/52inc/Scoops) | Scoops是一个android应用库，主要解决的是多主题实现方案。通过配置多个R.style.Theme ，代码进行动态设置主题，重启当前界面实现。 | ![](https://camo.githubusercontent.com/d7ec90078d65ad6728580b5752b63658e8b92dcd/687474703a2f2f692e696d6775722e636f6d2f3553716a62684c2e676966)
 
 
 
@@ -754,6 +927,8 @@ Name | Describe | 截图
 [AndPermission](https://github.com/yanzhenjie/AndPermission) | 可以到处使用的权限管理库 | 
 [PermissionHelper](https://github.com/k0shk0sh/PermissionHelper) | 权限管理库 | ![](https://camo.githubusercontent.com/acdedd12c3dcef45a80dc62f6632d50a0536468b/68747470733a2f2f7261772e6769746875622e636f6d2f6b3073686b3073682f5065726d697373696f6e48656c7065722f6d61737465722f6172742f6e65787573362e6a7067)
 [PermissionGen](https://github.com/lovedise/PermissionGen) | 权限管理库 | 
+[PermissionUtils](https://github.com/rebus007/PermissionUtils) | 权限管理库 | 
+[easypermissions](https://github.com/googlesamples/easypermissions) | Google自家的权限管理库 | 
 
 
 # 更新App
@@ -765,6 +940,7 @@ Name | Describe | 截图
 [jjdxm_update](https://github.com/jjdxmashl/jjdxm_update) | 版本更新，手动更新、静默更新和自动更新 | ![](https://raw.githubusercontent.com/jjdxmashl/jjdxm_update/master/screenshots/icon01.gif)
 [UpdateHelper](https://github.com/shelwee/UpdateHelper) | UpdateHelper是一个只需一行代码即可实现APP在线升级的Android Library | ![](https://raw.githubusercontent.com/shelwee/ImageStorage/master/UpdateHelper/UpdateDialog.png)
 [UpdateDemo](https://github.com/hugeterry/UpdateDemo) | UpdateFun是一个fir.im的Android更新下载模块，在fir.im上上传自己的APP后接入该库即可实现检查更新下载 | ![](https://github.com/hugeterry/UpdateDemo/blob/master/showUI/1.png)
+[AutoInstaller](https://github.com/a-voyager/AutoInstaller) | 应用自动静默更新安装库. | ![](https://raw.githubusercontent.com/a-voyager/AutoInstaller/master/imgs/GIF.gif)
 
 
 
@@ -778,6 +954,9 @@ Name | Describe | 截图
 [LitePal](https://github.com/LitePalFramework/LitePal) | 国人开发的数据库 |  
 [DiskLruCache](https://github.com/JakeWharton/DiskLruCache) | 硬盘缓存方案 |  
 [Secured-Preference-Store](https://github.com/iamMehedi/Secured-Preference-Store) | 一个对sharedpreferences 数据进行加密的开源库 |  
+[greenDAO](https://github.com/greenrobot/greenDAO) | 数据库开源框架 |  
+[GreenDaoUpgradeHelper](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) | GreenDaoUpgradeHelper是一个greenDao的数据库升级帮助类。使用它可以很容易解决数据库升级问题，只需一行代码。 |  
+[AnyPref](https://github.com/NashLegend/AnyPref) | SharedPreferences实用工具类，可直接保存与读取实例对象 |  
 
 
 
@@ -786,6 +965,7 @@ Name | Describe | 截图
 
 Name | Describe | 截图
 --- | --- | ---
+[logger](https://github.com/orhanobut/logger) | 日志系统 | ![](https://github.com/orhanobut/logger/blob/master/art/logger_output.png)
 [timber](https://github.com/JakeWharton/timber) | JakeWharton大神用的一个日志类 | ![](https://github.com/JakeWharton/timber/blob/master/logo.png)
 [debugkit](https://github.com/hulab/debugkit) | 它允许你创建和使用特殊的悬停调试工具，以触发你在应用程序中定义的操作。这些操作可以在运行时明显的触发，因此可以在编写或测试手机屏幕反馈时间时使用。 该库使用 Builder 模式 | ![](https://github.com/hulab/debugkit/blob/master/resources/screenshot.png)
 [ResourceInspector](https://github.com/nekocode/ResourceInspector) | 可以显示你当前页面页面布局的名字，很方便 | ![](https://github.com/nekocode/ResourceInspector/blob/master/img/screenshot.png)
@@ -801,40 +981,8 @@ Name | Describe | 截图
 [LogReport](https://github.com/wenmingvs/LogReport) | 崩溃日志上传框架，当App崩溃的时，把崩溃信息保存到本地的同时，自动给GitHub提交崩溃issue，你只需要几句，就能完成所有配置，更多细节请了解下方 | ![](https://camo.githubusercontent.com/2af4594399fa69d85eb9b81f099f77586e6f33bf/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f363931636331353167773166357a6230716f72396e6a32303870303932676d312e6a7067)
 [Recovery](https://github.com/Sunzxyong/Recovery) | Recovery”帮助你自动处理程序在运行时的Crash | ![](https://camo.githubusercontent.com/2979c1d0701ca490a5c78bf63551e160ea71f067/687474703a2f2f3778737778662e636f6d322e7a302e676c622e71696e697563646e2e636f6d2f2f626c6f672f7265636f766572792e6a7067)
 [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md) | BlockCanary是一个Android平台的一个非侵入式的性能监控组件 | ![](https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/art/shot1.png)
+[leakcanary](https://github.com/square/leakcanary) |  square性能监控组件，检测内存泄露  | ![](https://github.com/square/leakcanary/blob/master/assets/screenshot.png)
 
-
-
-# 选择器
-#### [返回目录](#目录)
-
-Name | Describe | 截图
---- | --- | ---
-[PictureSelector](https://github.com/LuckSiege/PictureSelector) | (功能强大齐全)一款针对android平台下的图片选择器，支持从相册或拍照选择图片或视频、音频，支持动态权限获取、裁剪(单图or多图裁剪)、压缩、主题自定义配置等功能、适配android 6.0+系统的开源图片选择框架。强烈推荐 | ![](https://github.com/LuckSiege/PictureSelector/blob/master/image/1.jpg)
-[android-pickers](https://github.com/addappcn/android-pickers) | 安卓选择器类库，包括日期及时间选择器(可设置范围)、单项选择器(可用于性别、职业、学历、星座等)、城市地址选择器(分省级、地级及县级)、数字选择器(可用于年龄、身高、体重、温度等)等……可以切换不同的模式(目前有普通模式，3d滚轮模式 | ![](https://github.com/addappcn/android-pickers/blob/master/screenshots/Screenshot_2017-04-21-15-45-59.png)
-[EasyPickerView](https://github.com/huzenan/EasyPickerView) | 一个轻量级的PickerView | ![](https://github.com/huzenan/EasyPickerView/blob/master/screenshots/picker.gif)
-[HorizontalScrollSelectedView](https://github.com/385841539/HorizontalScrollSelectedView) | 横向滚动的，可以支持大量文本选择的 自定义View ，一行代码 ， 简单易用 ， 无OOM情况 | ![](https://github.com/385841539/HorizontalScrollSelectedView/blob/master/horizontalselectedviewlibrary/src/main/res/drawable/xiaoguo2.gif)
-[storage-chooser](https://github.com/codekidX/storage-chooser) | 文件选择器 | ![](https://camo.githubusercontent.com/6f690f12cf8f8cbf9a1e400fe73a4a3fbc075872/687474703a2f2f692e696d6775722e636f6d2f6e6d71504a6f6b2e676966)
-[LFilePicker](https://github.com/leonHua/LFilePicker) | Android 检索手机目录方式的文件选择器，轻量且界面友好，定制性高。 | ![](https://github.com/leonHua/LFilePicker/blob/master/screenshot/%E6%93%8D%E4%BD%9C.gif)
-[Album](https://github.com/yanzhenjie/Album) | Album是一个MD风格的开源相册，支持国际化，主要功能分为三部分：相册选图、相机拍照、画廊预览。 | ![](https://github.com/yanzhenjie/Album/blob/master/image/2.gif)
-[ColorPickerView](https://github.com/skydoves/ColorPickerView) | 颜色选择器 | ![](https://cloud.githubusercontent.com/assets/24237865/23684747/011279de-03e4-11e7-8cb3-3d5271efedc6.jpg)
-[recent-images](https://github.com/amirarcane/recent-images) | 带有画廊效果的图片选择器 | ![](https://raw.githubusercontent.com/amirarcane/recent-images/master/demo/Screenshot_2015-10-31-15-40-49.png)
-[boxing](https://github.com/Bilibili/boxing) | 基于MVP模式的Android多媒体选择器 | ![](https://github.com/Bilibili/boxing/blob/master/screenshot/multi_image.webp)
-[ImagePicker](https://github.com/martin90s/ImagePicker) | 图片选择器 | ![](https://github.com/martin90s/ScreenShot/blob/master/choose_avatar.gif)
-[PickView](https://github.com/brucetoo/PickView) | 时间和地址滚轮选择器 | ![](https://github.com/brucetoo/PickView/blob/master/datepick.gif)
-[PickPhotoSample](https://github.com/Werb/PickPhotoSample) | 图片选择器 | ![](https://github.com/Werb/PickPhotoSample/blob/master/screenshots/custom_1.png)
-[IPicker](https://github.com/liuguangqiang/IPicker) | 图片选择器 | ![](https://github.com/liuguangqiang/IPicker/blob/master/arts/1.png)
-[NumberPicker](https://github.com/ShawnLin013/NumberPicker) | 数字滚轮选择器 | ![](https://github.com/ShawnLin013/NumberPicker/blob/master/screenshot/number-picker-theme.png)
-[WheelPicker](https://github.com/AigeStudio/WheelPicker) | 滚轮选择器 | ![](https://github.com/AigeStudio/WheelPicker/blob/master/Previews/main/Preview.gif)
-[MultiType-FilePicker](https://github.com/fishwjy/MultiType-FilePicker) | 文件选择器 | ![](https://github.com/fishwjy/MultiType-FilePicker/blob/master/pic/pick_img.gif)
-[ImageSelector](https://github.com/smuyyh/ImageSelector) | Android 图片选择器。充分自由定制，极大程度简化使用，支持图库多选/图片预览/单选/照片裁剪/拍照/自定义图片加载方式/自定义色调/沉浸式状态栏 | ![](https://raw.githubusercontent.com/smuyyh/ImageSelector/master/screenshot/screen_1.png)
-[TimePickerDialog](https://github.com/JZXiang/TimePickerDialog) | 时间滚轮选择器 | ![](https://github.com/JZXiang/PickerView/raw/master/preview/timepickerdialog_demo.gif)
-[CityPicker](https://github.com/zaaach/CityPicker) | 一个漂亮的城市选择器 | ![](https://github.com/zaaach/CityPicker/raw/master/art/screen.gif)
-[PhotoPicker](https://github.com/donglua/PhotoPicker) | 图片选择器 | ![](https://camo.githubusercontent.com/d250513e87edf279ef8a4df874f46613216a063e/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f3565396138316462677731657472613631726e72396a3230367a3063653379752e6a7067)
-[TedBottomPicker](https://github.com/ParkSangGwon/TedBottomPicker) | 底部弹出的图片选择器 | ![](https://raw.githubusercontent.com/ParkSangGwon/TedBottomPicker/master/screenshot1.jpeg)
-[TakePhoto](https://github.com/crazycodeboy/TakePhoto) | 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库 | ![](https://raw.githubusercontent.com/crazycodeboy/TakePhoto/master/Screenshots/takephoto_preview.png)
-[CharacterPickerView](https://github.com/ImKarl/CharacterPickerView) | 可实现三级联动的选择器，高仿iOS的滚轮控件，字体大小自适应 | ![](https://github.com/ImKarl/CharacterPickerView/blob/master/Screenshot/Screenshot_2015-11-13-154813.gif)
-[MaterialFilePicker](https://github.com/nbsp-team/MaterialFilePicker) | 文件选择器 | ![](https://camo.githubusercontent.com/89e8e63f14922125ab7a6c5734065e24a5413efa/68747470733a2f2f692e696d6775722e636f6d2f6d6a787330356e2e706e67)
-[Android-FilePicker](https://github.com/DroidNinja/Android-FilePicker) | 文件选择器 | ![](https://camo.githubusercontent.com/5f661f6f87dca57b1cef299ad11a24d3234ffc0c/68747470733a2f2f696d6167652e6962622e636f2f6952707a74762f6465766963655f323031375f30335f31305f3136343030332e706e67)
 
 
 
@@ -860,11 +1008,18 @@ Name | Describe | 截图
 [SuperUtils](https://github.com/AllenCoder/SuperUtils) | 快速开发工具类收集 |  
 [ThreadPoolHelp](https://github.com/rohsuton/ThreadPoolHelp) | Android平台下的线程池管理工具类 |  
 [AndroidCommon](https://github.com/h4de5ing/AndroidCommon) | 基于Android系统Api封装常用工具类 |   
+[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) | 开发常用工具类 |   
 [AndroidCommon](https://github.com/venshine/AndroidCommon) | 一个简单的开源Android工具类库，提供许多常用的类帮助我们开发程序。 |  
 [android-weak-handler](https://github.com/badoo/android-weak-handler) | 弱引用的Handler | ![](https://github.com/badoo/android-weak-handler/blob/master/WeakHandler.png)
 [DisplayInfo](https://github.com/ZQiang94/DisplayInfo) | 通过运行DisplayInfo获取当前设备屏幕的尺寸信息 | ![](https://github.com/ZQiang94/DisplayInfo/blob/master/device-2016-08-20-115904.png)
 [DateHelper](https://github.com/armcha/DateHelper) | 日期帮助类 | ![](https://github.com/armcha/DateHelper/blob/master/screen_new.png)
 [NotifyUtil](https://github.com/wenmingvs/NotifyUtil) | 通知工具类 | ![](https://camo.githubusercontent.com/41d696a579065eb8f234a00485387947655d12a0/687474703a2f2f7777332e73696e61696d672e636e2f6c617267652f3639316363313531677731663037373476737937786732306463306b307836702e676966)
+[HermesEventBus](https://github.com/elemers/HermesEventBus) | HermesEventBus是一个基于EventBus的、能在进程间发送和接收event的库，在IPC或者插件开发中非常有用。它底层基于EventBus，并且和EventBus有相同API。 | 
+[RxBinding](https://github.com/JakeWharton/RxBinding) | 允许你以RxJava的形式来处理UI事件 | 
+[MVPSample](https://github.com/haibuzou/MVPSample) | MVP示例 | 
+[AndroidMVPSample](https://github.com/WuXiaolong/AndroidMVPSample) | Android MVP+Retrofit+RxJava 实例 | 
+[android-mvp-pattern](https://github.com/kaedea/android-mvp-pattern) | 这个项目是一个简单的Android MVP项目，用于展示MVP结构的基本写法 | 
+[thinr](https://github.com/bjoernQ/thinr) | 一个容易使用的AsyncTask替代品 —— 防止泄漏 | 
 
 
 
@@ -921,6 +1076,14 @@ Name | Describe | 截图
 [WeiBo](https://github.com/wenmingvs/WeiBo) | 第三方新浪微博客户端 | ![](https://camo.githubusercontent.com/0c1e9b4d62109c84146a9f0d3a37763bfc5e1653/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f3639316363313531677731663372746b713478376d6a323037693064633735722e6a7067)
 [simplenote-android](https://github.com/Automattic/simplenote-android) | 笔记App |
 [EasyGank](https://github.com/CaMnter/EasyGank) | GankIO |  ![](https://camo.githubusercontent.com/249ddcb0d2d2063e51c71e172724e3f231b1c684/687474703a2f2f7777342e73696e61696d672e636e2f6c617267652f3030366c5045633967773166333074676634326e686a333161793239386e65352e6a7067)
+[GamePlane](https://github.com/iSpring/GamePlane) | 基于Android的仿微信打飞机游戏 |  ![](https://github.com/iSpring/GamePlane/blob/master/screenshot.gif)
+[superXingPostCard](https://github.com/xingkongus/superXingPostCard) | 制作明信片图片的app |  ![](https://github.com/hugeterry/superXingPostCard/blob/master/showUI/1.jpg)
+[GankGirl](https://github.com/gaolonglong/GankGirl) | RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等 |  ![](https://github.com/gaolonglong/GankGirl/raw/master/Screenshot/666.gif)
+[MicroReader](https://github.com/YiuChoi/MicroReader) | 一个小而美的阅读客户端 |  ![](https://github.com/YiuChoi/MicroReader/blob/master/screenshot/Screenshot_20160503-085830.png)
+[GanK](https://github.com/dongjunkun/GanK) | 干货集中营 |  ![](https://raw.githubusercontent.com/dongjunkun/GanK/master/art/gank1.png)
+[HungerMoji](https://github.com/mikeroelens/HungerMoji) | 通知栏游戏 | 
+[GanHuoIO](https://github.com/burgessjp/GanHuoIO) | 基于Gank.IO提供的API的第三方客户端（RxJava+Retrofit） |  ![](https://github.com/burgessjp/GanHuoIO/blob/master/capture/p1.jpg)
+
 
 
 
@@ -946,6 +1109,8 @@ Name | Describe | 截图
 [CustomViewSets](https://github.com/zyyoona7/CustomViewSets) | 自定义View的集合 | ![](https://github.com/zyyoona7/CustomViewSets/blob/master/images/basic_operation.gif)
 [Android-Tips](https://github.com/zyyoona7/CustomViewSets) | 一份Android相关资料的集合 |
 [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A) | 最大的互联网公司android的面试问题和答案 |
+[AndroidAutoClick](https://github.com/minggo620/AndroidAutoClick) | 自动点击[模拟点击、辅助服务、反射遍历破解] | ![](https://camo.githubusercontent.com/f365823ca98945319953df78403f4786a3d06207/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f313235323633382d356330343634646336333061303666652e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+[packer-ng-plugin](https://github.com/mcxiaoke/packer-ng-plugin) | 下一代Android打包工具，100个渠道包只需要10秒钟 | 
 
 
 
